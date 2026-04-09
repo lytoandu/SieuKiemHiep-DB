@@ -4347,7 +4347,7 @@ namespace GameDBServer.Server
                 }
 
                 /// Thực hiện tạo nhân vật
-                int roleID = DBWriter.CreateRole(dbMgr, userID, userName, sex, factionID, 0, rolename, serverID, (int)RoleCreateConstant.GridNum, positionInfo, 1);
+                int roleID = DBWriter.CreateRole(dbMgr, userID, userName, sex, factionID, 0, DataHelper.Base64Encode(rolename), serverID, (int)RoleCreateConstant.GridNum, positionInfo, 1);
                 if (0 > roleID)
                 {
                     NameUsedMgr.Instance().DelCannotUse_Ex(rolename);

@@ -541,7 +541,7 @@ namespace GameDBServer.Logic.FamilyLogic
                         _RequestJoin.ID = Convert.ToInt32(reader["ID"].ToString());
                         _RequestJoin.FamilyID = Convert.ToInt32(reader["FamilyID"].ToString());
                         _RequestJoin.RoleFactionID = Convert.ToInt32(reader["RoleFactionID"].ToString());
-                        _RequestJoin.RoleName = reader["RoleName"].ToString();
+                        _RequestJoin.RoleName = DataHelper.Base64Decode(reader["RoleName"].ToString());
                         _RequestJoin.RoleID = Convert.ToInt32(reader["RoleID"].ToString());
                         _RequestJoin.RoleLevel = Convert.ToInt32(reader["RoleLevel"].ToString());
                         _RequestJoin.RolePrestige = Convert.ToInt32(reader["RolePrestige"].ToString());
@@ -629,7 +629,7 @@ namespace GameDBServer.Logic.FamilyLogic
                         _FamilyMember.FactionID = Convert.ToInt32(reader["occupation"].ToString());
                         _FamilyMember.Level = Convert.ToInt32(reader["level"].ToString());
                         _FamilyMember.RoleID = Convert.ToInt32(reader["rid"].ToString());
-                        _FamilyMember.RoleName = reader["rname"].ToString();
+                        _FamilyMember.RoleName = DataHelper.Base64Decode(reader["rname"].ToString());
                         _FamilyMember.Rank = Convert.ToInt32(reader["familyrank"].ToString());
                         _FamilyMember.Prestige = Convert.ToInt32(reader["roleprestige"].ToString());
 

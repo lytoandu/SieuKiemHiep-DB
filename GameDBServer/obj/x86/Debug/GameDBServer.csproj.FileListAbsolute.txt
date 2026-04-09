@@ -261,3 +261,13 @@ E:\KT mobile\KiemTheDoXanh\SERVER\GameDBServer\GameDBServer\obj\x86\Debug\GameDB
 E:\KT mobile\KiemTheDoXanh\SERVER\GameDBServer\GameDBServer\obj\x86\Debug\GameDBServer.exe
 E:\KT mobile\KiemTheDoXanh\SERVER\GameDBServer\GameDBServer\obj\x86\Debug\GameDBServer.pdb
 E:\KT mobile\KiemTheDoXanh\SERVER\GameDBServer\GameDBServer\obj\x86\Debug\GameDBServer.csproj.AssemblyReference.cache
+T:\KTUnity\SieuKiemHiep-DB\GameDBServer\bin\Debug\GameDBServer.exe.config
+T:\KTUnity\SieuKiemHiep-DB\GameDBServer\bin\Debug\GameDBServer.exe
+T:\KTUnity\SieuKiemHiep-DB\GameDBServer\bin\Debug\GameDBServer.pdb
+T:\KTUnity\SieuKiemHiep-DB\GameDBServer\bin\Debug\MySQLDriverCS.dll
+T:\KTUnity\SieuKiemHiep-DB\GameDBServer\obj\x86\Debug\GameDBServer.csproj.AssemblyReference.cache
+T:\KTUnity\SieuKiemHiep-DB\GameDBServer\obj\x86\Debug\GameDBServer.exe.config
+T:\KTUnity\SieuKiemHiep-DB\GameDBServer\obj\x86\Debug\GameDBServer.csproj.CoreCompileInputs.cache
+T:\KTUnity\SieuKiemHiep-DB\GameDBServer\obj\x86\Debug\GameDBSe.221E8150.Up2Date
+T:\KTUnity\SieuKiemHiep-DB\GameDBServer\obj\x86\Debug\GameDBServer.exe
+T:\KTUnity\SieuKiemHiep-DB\GameDBServer\obj\x86\Debug\GameDBServer.pdb

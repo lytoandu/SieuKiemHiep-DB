@@ -204,7 +204,7 @@ namespace GameDBServer.Logic.FamilyLogic
                         _Reqesut.RoleFactionID = RoleFactionID;
                         _Reqesut.RoleID = RoleID;
                         _Reqesut.RoleLevel = RoleLevel;
-                        _Reqesut.RoleName = RoleName;
+                        _Reqesut.RoleName = DataHelper.Base64Decode(RoleName);
                         _Reqesut.RolePrestige = RolePrestige;
                         _Reqesut.TimeRequest = DateTime.Now;
 

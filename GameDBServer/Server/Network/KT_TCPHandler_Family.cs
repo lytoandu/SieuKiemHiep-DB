@@ -112,7 +112,7 @@ namespace GameDBServer.Server.Network
 
                 if (roleInfo != null)
                 {
-                    int JoinReturn = FamilyManager.getInstance().AddRequestJoin(RoleID, roleInfo.RoleName, roleInfo.Occupation, FamilyID, roleInfo.Level, roleInfo.Prestige);
+                    int JoinReturn = FamilyManager.getInstance().AddRequestJoin(RoleID, DataHelper.Base64Encode(roleInfo.RoleName), roleInfo.Occupation, FamilyID, roleInfo.Level, roleInfo.Prestige);
 
                     tcpOutPacket = TCPOutPacket.MakeTCPOutPacket(pool, "" + JoinReturn, nID);
                 }

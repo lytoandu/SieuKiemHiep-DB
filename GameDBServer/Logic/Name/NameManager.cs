@@ -148,7 +148,7 @@ namespace GameDBServer.Logic.Name
                     }
 
                     /// Thực hiện đổi tên
-                    string cmdText = string.Format("UPDATE t_roles SET rname='{0}' WHERE rid={1} AND userid='{2}' AND zoneid={3}", newName, roleId, uid, zoneId);
+                    string cmdText = string.Format("UPDATE t_roles SET rname='{0}' WHERE rid={1} AND userid='{2}' AND zoneid={3}", DataHelper.Base64Encode(newName), roleId, uid, zoneId);
                     if (!this.ExecNonQuery(dbMgr, cmdText))
                     {
                         failedMsg = "Update new name to t_roles failed";
@@ -282,7 +282,7 @@ namespace GameDBServer.Logic.Name
         public bool IsNameCanUseInDb(DBManager dbMgr, string name)
         {
             if (dbMgr == null || string.IsNullOrEmpty(name)) return false;
-
+            return true;
             MySQLConnection conn = null;
             string prefixName = name + "99999999";
             try

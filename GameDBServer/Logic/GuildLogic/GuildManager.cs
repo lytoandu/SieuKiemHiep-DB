@@ -451,7 +451,7 @@ namespace GameDBServer.Logic.GuildLogic
 
                     _GuidMember.Rank = Convert.ToInt32(reader["guildrank"].ToString());
 
-                    _GuidMember.RoleName = reader["rname"].ToString();
+                    _GuidMember.RoleName = DataHelper.Base64Decode(reader["rname"].ToString());
 
                     DBRoleInfo otherDbRoleInfo = this._Database.GetDBRoleInfo(_GuidMember.RoleID);
 
@@ -519,7 +519,7 @@ namespace GameDBServer.Logic.GuildLogic
 
                     _Share.RoleID = Convert.ToInt32(reader["RoleID"].ToString());
                     _Share.Share = Convert.ToDouble(reader["Share"].ToString());
-                    _Share.RoleName = reader["RoleName"].ToString();
+                    _Share.RoleName = DataHelper.Base64Decode(reader["RoleName"].ToString());
                     _Share.Rank = Convert.ToInt32(reader["Rank"].ToString());
                     _Share.FamilyID = Convert.ToInt32(reader["FamilyID"].ToString());
                     _Share.FamilyName = reader["FamilyName"].ToString();
@@ -673,7 +673,7 @@ namespace GameDBServer.Logic.GuildLogic
                     double Percent = MaxMoneyGuild <= 0 ? 0 
                         : Math.Round(((member.GuildMoney * 100) / MaxMoneyGuild), 2);
 
-                    this.InsertGuildShare(member.RoleName, member.RoleID, Percent, member.GuildID, i, 
+                    this.InsertGuildShare(DataHelper.Base64Encode(member.RoleName), member.RoleID, Percent, member.GuildID, i, 
                         member.FactionID, member.FamilyName);
 
                     i++;

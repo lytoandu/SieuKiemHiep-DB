@@ -1,101 +1,129 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\KIEM KY HIEP\\SERVER\\GAME SERVER\\KIEM_KY_HIEP_S1\\GameDBServer\\",
+  "WorkspaceRootPath": "T:\\KTUnity\\SieuKiemHiep-DB\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D49A3FBD-CB43-4389-9ADE-5564CBF3C737}|GameDBServer\\GameDBServer.csproj|c:\\kiem ky hiep\\server\\game server\\kiem_ky_hiep_s1\\gamedbserver\\gamedbserver\\logic\\blackmarket\\blackmarket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D49A3FBD-CB43-4389-9ADE-5564CBF3C737}|GameDBServer\\GameDBServer.csproj|solutionrelative:gamedbserver\\logic\\blackmarket\\blackmarket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D49A3FBD-CB43-4389-9ADE-5564CBF3C737}|GameDBServer\\GameDBServer.csproj|C:\\KIEM KY HIEP\\SERVER\\GAME SERVER\\KIEM_KY_HIEP_S1\\GameDBServer\\gamedbserver\\server\\tcpcmdhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D49A3FBD-CB43-4389-9ADE-5564CBF3C737}|GameDBServer\\GameDBServer.csproj|T:\\KTUnity\\SieuKiemHiep-DB\\gamedbserver\\server\\tcpcmdhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D49A3FBD-CB43-4389-9ADE-5564CBF3C737}|GameDBServer\\GameDBServer.csproj|solutionrelative:gamedbserver\\server\\tcpcmdhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D49A3FBD-CB43-4389-9ADE-5564CBF3C737}|GameDBServer\\GameDBServer.csproj|c:\\kiem ky hiep\\server\\game server\\kiem_ky_hiep_s1\\gamedbserver\\gamedbserver\\data\\maker\\blackmarketitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D49A3FBD-CB43-4389-9ADE-5564CBF3C737}|GameDBServer\\GameDBServer.csproj|solutionrelative:gamedbserver\\data\\maker\\blackmarketitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D49A3FBD-CB43-4389-9ADE-5564CBF3C737}|GameDBServer\\GameDBServer.csproj|t:\\ktunity\\sieukiemhiep-db\\gamedbserver\\logic\\name\\namemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D49A3FBD-CB43-4389-9ADE-5564CBF3C737}|GameDBServer\\GameDBServer.csproj|solutionrelative:gamedbserver\\logic\\name\\namemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D49A3FBD-CB43-4389-9ADE-5564CBF3C737}|GameDBServer\\GameDBServer.csproj|c:\\kiem ky hiep\\server\\game server\\kiem_ky_hiep_s1\\gamedbserver\\gamedbserver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D49A3FBD-CB43-4389-9ADE-5564CBF3C737}|GameDBServer\\GameDBServer.csproj|solutionrelative:gamedbserver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D49A3FBD-CB43-4389-9ADE-5564CBF3C737}|GameDBServer\\GameDBServer.csproj|c:\\kiem ky hiep\\server\\game server\\kiem_ky_hiep_s1\\gamedbserver\\gamedbserver\\logic\\global.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D49A3FBD-CB43-4389-9ADE-5564CBF3C737}|GameDBServer\\GameDBServer.csproj|solutionrelative:gamedbserver\\logic\\global.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D49A3FBD-CB43-4389-9ADE-5564CBF3C737}|GameDBServer\\GameDBServer.csproj|C:\\KIEM KY HIEP\\SERVER\\GAME SERVER\\KIEM_KY_HIEP_S1\\GameDBServer\\gamedbserver\\db\\dbquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D49A3FBD-CB43-4389-9ADE-5564CBF3C737}|GameDBServer\\GameDBServer.csproj|solutionrelative:gamedbserver\\db\\dbquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D49A3FBD-CB43-4389-9ADE-5564CBF3C737}|GameDBServer\\GameDBServer.csproj|C:\\KIEM KY HIEP\\SERVER\\GAME SERVER\\KIEM_KY_HIEP_S1\\GameDBServer\\gamedbserver\\db\\dbwriter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D49A3FBD-CB43-4389-9ADE-5564CBF3C737}|GameDBServer\\GameDBServer.csproj|T:\\KTUnity\\SieuKiemHiep-DB\\gamedbserver\\db\\dbwriter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D49A3FBD-CB43-4389-9ADE-5564CBF3C737}|GameDBServer\\GameDBServer.csproj|solutionrelative:gamedbserver\\db\\dbwriter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D49A3FBD-CB43-4389-9ADE-5564CBF3C737}|GameDBServer\\GameDBServer.csproj|c:\\kiem ky hiep\\server\\game server\\kiem_ky_hiep_s1\\gamedbserver\\gamedbserver\\logic\\groupmailmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D49A3FBD-CB43-4389-9ADE-5564CBF3C737}|GameDBServer\\GameDBServer.csproj|solutionrelative:gamedbserver\\logic\\groupmailmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D49A3FBD-CB43-4389-9ADE-5564CBF3C737}|GameDBServer\\GameDBServer.csproj|t:\\ktunity\\sieukiemhiep-db\\gamedbserver\\server\\network\\kt_tcphandler_family.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D49A3FBD-CB43-4389-9ADE-5564CBF3C737}|GameDBServer\\GameDBServer.csproj|solutionrelative:gamedbserver\\server\\network\\kt_tcphandler_family.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D49A3FBD-CB43-4389-9ADE-5564CBF3C737}|GameDBServer\\GameDBServer.csproj|c:\\kiem ky hiep\\server\\game server\\kiem_ky_hiep_s1\\gamedbserver\\gamedbserver\\tools\\logmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D49A3FBD-CB43-4389-9ADE-5564CBF3C737}|GameDBServer\\GameDBServer.csproj|solutionrelative:gamedbserver\\tools\\logmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D49A3FBD-CB43-4389-9ADE-5564CBF3C737}|GameDBServer\\GameDBServer.csproj|t:\\ktunity\\sieukiemhiep-db\\gamedbserver\\logic\\kt_pet\\ktpetmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D49A3FBD-CB43-4389-9ADE-5564CBF3C737}|GameDBServer\\GameDBServer.csproj|solutionrelative:gamedbserver\\logic\\kt_pet\\ktpetmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D49A3FBD-CB43-4389-9ADE-5564CBF3C737}|GameDBServer\\GameDBServer.csproj|c:\\kiem ky hiep\\server\\game server\\kiem_ky_hiep_s1\\gamedbserver\\gamedbserver\\data\\maker\\marketitemdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D49A3FBD-CB43-4389-9ADE-5564CBF3C737}|GameDBServer\\GameDBServer.csproj|solutionrelative:gamedbserver\\data\\maker\\marketitemdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D49A3FBD-CB43-4389-9ADE-5564CBF3C737}|GameDBServer\\GameDBServer.csproj|t:\\ktunity\\sieukiemhiep-db\\gamedbserver\\logic\\guildlogic\\guildmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D49A3FBD-CB43-4389-9ADE-5564CBF3C737}|GameDBServer\\GameDBServer.csproj|solutionrelative:gamedbserver\\logic\\guildlogic\\guildmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D49A3FBD-CB43-4389-9ADE-5564CBF3C737}|GameDBServer\\GameDBServer.csproj|c:\\kiem ky hiep\\server\\game server\\kiem_ky_hiep_s1\\gamedbserver\\gamedbserver\\logic\\enumeration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D49A3FBD-CB43-4389-9ADE-5564CBF3C737}|GameDBServer\\GameDBServer.csproj|solutionrelative:gamedbserver\\logic\\enumeration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D49A3FBD-CB43-4389-9ADE-5564CBF3C737}|GameDBServer\\GameDBServer.csproj|T:\\KTUnity\\SieuKiemHiep-DB\\gamedbserver\\logic\\global.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D49A3FBD-CB43-4389-9ADE-5564CBF3C737}|GameDBServer\\GameDBServer.csproj|solutionrelative:gamedbserver\\logic\\global.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D49A3FBD-CB43-4389-9ADE-5564CBF3C737}|GameDBServer\\GameDBServer.csproj|c:\\kiem ky hiep\\server\\game server\\kiem_ky_hiep_s1\\gamedbserver\\gamedbserver\\logic\\kt_stallmanager\\stallmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D49A3FBD-CB43-4389-9ADE-5564CBF3C737}|GameDBServer\\GameDBServer.csproj|solutionrelative:gamedbserver\\logic\\kt_stallmanager\\stallmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D49A3FBD-CB43-4389-9ADE-5564CBF3C737}|GameDBServer\\GameDBServer.csproj|t:\\ktunity\\sieukiemhiep-db\\gamedbserver\\logic\\blackmarket\\blackmarket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D49A3FBD-CB43-4389-9ADE-5564CBF3C737}|GameDBServer\\GameDBServer.csproj|solutionrelative:gamedbserver\\logic\\blackmarket\\blackmarket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D49A3FBD-CB43-4389-9ADE-5564CBF3C737}|GameDBServer\\GameDBServer.csproj|c:\\kiem ky hiep\\server\\game server\\kiem_ky_hiep_s1\\gamedbserver\\gamedbserver\\logic\\market\\marketmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D49A3FBD-CB43-4389-9ADE-5564CBF3C737}|GameDBServer\\GameDBServer.csproj|solutionrelative:gamedbserver\\logic\\market\\marketmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D49A3FBD-CB43-4389-9ADE-5564CBF3C737}|GameDBServer\\GameDBServer.csproj|c:\\kiem ky hiep\\server\\game server\\kiem_ky_hiep_s1\\gamedbserver\\gamedbserver\\data\\stalldata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D49A3FBD-CB43-4389-9ADE-5564CBF3C737}|GameDBServer\\GameDBServer.csproj|solutionrelative:gamedbserver\\data\\stalldata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D49A3FBD-CB43-4389-9ADE-5564CBF3C737}|GameDBServer\\GameDBServer.csproj|c:\\kiem ky hiep\\server\\game server\\kiem_ky_hiep_s1\\gamedbserver\\gamedbserver\\data\\stalldbaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D49A3FBD-CB43-4389-9ADE-5564CBF3C737}|GameDBServer\\GameDBServer.csproj|solutionrelative:gamedbserver\\data\\stalldbaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D49A3FBD-CB43-4389-9ADE-5564CBF3C737}|GameDBServer\\GameDBServer.csproj|c:\\kiem ky hiep\\server\\game server\\kiem_ky_hiep_s1\\gamedbserver\\gamedbserver\\db\\dbroleinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D49A3FBD-CB43-4389-9ADE-5564CBF3C737}|GameDBServer\\GameDBServer.csproj|T:\\KTUnity\\SieuKiemHiep-DB\\gamedbserver\\db\\dbroleinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D49A3FBD-CB43-4389-9ADE-5564CBF3C737}|GameDBServer\\GameDBServer.csproj|solutionrelative:gamedbserver\\db\\dbroleinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D49A3FBD-CB43-4389-9ADE-5564CBF3C737}|GameDBServer\\GameDBServer.csproj|c:\\kiem ky hiep\\server\\game server\\kiem_ky_hiep_s1\\gamedbserver\\gamedbserver\\core\\timeutil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D49A3FBD-CB43-4389-9ADE-5564CBF3C737}|GameDBServer\\GameDBServer.csproj|solutionrelative:gamedbserver\\core\\timeutil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D49A3FBD-CB43-4389-9ADE-5564CBF3C737}|GameDBServer\\GameDBServer.csproj|c:\\kiem ky hiep\\server\\game server\\kiem_ky_hiep_s1\\gamedbserver\\gamedbserver\\db\\mydbconnection3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D49A3FBD-CB43-4389-9ADE-5564CBF3C737}|GameDBServer\\GameDBServer.csproj|solutionrelative:gamedbserver\\db\\mydbconnection3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D49A3FBD-CB43-4389-9ADE-5564CBF3C737}|GameDBServer\\GameDBServer.csproj|c:\\kiem ky hiep\\server\\game server\\kiem_ky_hiep_s1\\gamedbserver\\gamedbserver\\logic\\ranking\\rankingmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D49A3FBD-CB43-4389-9ADE-5564CBF3C737}|GameDBServer\\GameDBServer.csproj|T:\\KTUnity\\SieuKiemHiep-DB\\gamedbserver\\logic\\ranking\\rankingmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D49A3FBD-CB43-4389-9ADE-5564CBF3C737}|GameDBServer\\GameDBServer.csproj|solutionrelative:gamedbserver\\logic\\ranking\\rankingmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D49A3FBD-CB43-4389-9ADE-5564CBF3C737}|GameDBServer\\GameDBServer.csproj|C:\\KIEM KY HIEP\\SERVER\\GAME SERVER\\KIEM_KY_HIEP_S1\\GameDBServer\\gamedbserver\\data\\occupationdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D49A3FBD-CB43-4389-9ADE-5564CBF3C737}|GameDBServer\\GameDBServer.csproj|t:\\ktunity\\sieukiemhiep-db\\gamedbserver\\logic\\familylogic\\family_requestjoin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D49A3FBD-CB43-4389-9ADE-5564CBF3C737}|GameDBServer\\GameDBServer.csproj|solutionrelative:gamedbserver\\logic\\familylogic\\family_requestjoin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D49A3FBD-CB43-4389-9ADE-5564CBF3C737}|GameDBServer\\GameDBServer.csproj|t:\\ktunity\\sieukiemhiep-db\\gamedbserver\\logic\\familylogic\\familymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D49A3FBD-CB43-4389-9ADE-5564CBF3C737}|GameDBServer\\GameDBServer.csproj|solutionrelative:gamedbserver\\logic\\familylogic\\familymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D49A3FBD-CB43-4389-9ADE-5564CBF3C737}|GameDBServer\\GameDBServer.csproj|t:\\ktunity\\sieukiemhiep-db\\gamedbserver\\db\\dbuserinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D49A3FBD-CB43-4389-9ADE-5564CBF3C737}|GameDBServer\\GameDBServer.csproj|solutionrelative:gamedbserver\\db\\dbuserinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D49A3FBD-CB43-4389-9ADE-5564CBF3C737}|GameDBServer\\GameDBServer.csproj|T:\\KTUnity\\SieuKiemHiep-DB\\gamedbserver\\db\\dbquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D49A3FBD-CB43-4389-9ADE-5564CBF3C737}|GameDBServer\\GameDBServer.csproj|solutionrelative:gamedbserver\\db\\dbquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D49A3FBD-CB43-4389-9ADE-5564CBF3C737}|GameDBServer\\GameDBServer.csproj|T:\\KTUnity\\SieuKiemHiep-DB\\gamedbserver\\data\\maker\\blackmarketitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D49A3FBD-CB43-4389-9ADE-5564CBF3C737}|GameDBServer\\GameDBServer.csproj|solutionrelative:gamedbserver\\data\\maker\\blackmarketitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D49A3FBD-CB43-4389-9ADE-5564CBF3C737}|GameDBServer\\GameDBServer.csproj|T:\\KTUnity\\SieuKiemHiep-DB\\gamedbserver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D49A3FBD-CB43-4389-9ADE-5564CBF3C737}|GameDBServer\\GameDBServer.csproj|solutionrelative:gamedbserver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D49A3FBD-CB43-4389-9ADE-5564CBF3C737}|GameDBServer\\GameDBServer.csproj|T:\\KTUnity\\SieuKiemHiep-DB\\gamedbserver\\logic\\groupmailmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D49A3FBD-CB43-4389-9ADE-5564CBF3C737}|GameDBServer\\GameDBServer.csproj|solutionrelative:gamedbserver\\logic\\groupmailmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D49A3FBD-CB43-4389-9ADE-5564CBF3C737}|GameDBServer\\GameDBServer.csproj|T:\\KTUnity\\SieuKiemHiep-DB\\gamedbserver\\tools\\logmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D49A3FBD-CB43-4389-9ADE-5564CBF3C737}|GameDBServer\\GameDBServer.csproj|solutionrelative:gamedbserver\\tools\\logmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D49A3FBD-CB43-4389-9ADE-5564CBF3C737}|GameDBServer\\GameDBServer.csproj|T:\\KTUnity\\SieuKiemHiep-DB\\gamedbserver\\data\\maker\\marketitemdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D49A3FBD-CB43-4389-9ADE-5564CBF3C737}|GameDBServer\\GameDBServer.csproj|solutionrelative:gamedbserver\\data\\maker\\marketitemdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D49A3FBD-CB43-4389-9ADE-5564CBF3C737}|GameDBServer\\GameDBServer.csproj|T:\\KTUnity\\SieuKiemHiep-DB\\gamedbserver\\logic\\enumeration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D49A3FBD-CB43-4389-9ADE-5564CBF3C737}|GameDBServer\\GameDBServer.csproj|solutionrelative:gamedbserver\\logic\\enumeration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D49A3FBD-CB43-4389-9ADE-5564CBF3C737}|GameDBServer\\GameDBServer.csproj|T:\\KTUnity\\SieuKiemHiep-DB\\gamedbserver\\logic\\kt_stallmanager\\stallmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D49A3FBD-CB43-4389-9ADE-5564CBF3C737}|GameDBServer\\GameDBServer.csproj|solutionrelative:gamedbserver\\logic\\kt_stallmanager\\stallmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D49A3FBD-CB43-4389-9ADE-5564CBF3C737}|GameDBServer\\GameDBServer.csproj|T:\\KTUnity\\SieuKiemHiep-DB\\gamedbserver\\logic\\market\\marketmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D49A3FBD-CB43-4389-9ADE-5564CBF3C737}|GameDBServer\\GameDBServer.csproj|solutionrelative:gamedbserver\\logic\\market\\marketmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D49A3FBD-CB43-4389-9ADE-5564CBF3C737}|GameDBServer\\GameDBServer.csproj|T:\\KTUnity\\SieuKiemHiep-DB\\gamedbserver\\data\\stalldata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D49A3FBD-CB43-4389-9ADE-5564CBF3C737}|GameDBServer\\GameDBServer.csproj|solutionrelative:gamedbserver\\data\\stalldata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D49A3FBD-CB43-4389-9ADE-5564CBF3C737}|GameDBServer\\GameDBServer.csproj|T:\\KTUnity\\SieuKiemHiep-DB\\gamedbserver\\data\\stalldbaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D49A3FBD-CB43-4389-9ADE-5564CBF3C737}|GameDBServer\\GameDBServer.csproj|solutionrelative:gamedbserver\\data\\stalldbaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D49A3FBD-CB43-4389-9ADE-5564CBF3C737}|GameDBServer\\GameDBServer.csproj|T:\\KTUnity\\SieuKiemHiep-DB\\gamedbserver\\core\\timeutil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D49A3FBD-CB43-4389-9ADE-5564CBF3C737}|GameDBServer\\GameDBServer.csproj|solutionrelative:gamedbserver\\core\\timeutil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D49A3FBD-CB43-4389-9ADE-5564CBF3C737}|GameDBServer\\GameDBServer.csproj|T:\\KTUnity\\SieuKiemHiep-DB\\gamedbserver\\db\\mydbconnection3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D49A3FBD-CB43-4389-9ADE-5564CBF3C737}|GameDBServer\\GameDBServer.csproj|solutionrelative:gamedbserver\\db\\mydbconnection3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D49A3FBD-CB43-4389-9ADE-5564CBF3C737}|GameDBServer\\GameDBServer.csproj|T:\\KTUnity\\SieuKiemHiep-DB\\gamedbserver\\data\\occupationdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D49A3FBD-CB43-4389-9ADE-5564CBF3C737}|GameDBServer\\GameDBServer.csproj|solutionrelative:gamedbserver\\data\\occupationdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D49A3FBD-CB43-4389-9ADE-5564CBF3C737}|GameDBServer\\GameDBServer.csproj|C:\\KIEM KY HIEP\\SERVER\\GAME SERVER\\KIEM_KY_HIEP_S1\\GameDBServer\\gamedbserver\\db\\dbmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D49A3FBD-CB43-4389-9ADE-5564CBF3C737}|GameDBServer\\GameDBServer.csproj|T:\\KTUnity\\SieuKiemHiep-DB\\gamedbserver\\db\\dbmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D49A3FBD-CB43-4389-9ADE-5564CBF3C737}|GameDBServer\\GameDBServer.csproj|solutionrelative:gamedbserver\\db\\dbmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D49A3FBD-CB43-4389-9ADE-5564CBF3C737}|GameDBServer\\GameDBServer.csproj|C:\\KIEM KY HIEP\\SERVER\\GAME SERVER\\KIEM_KY_HIEP_S1\\GameDBServer\\gamedbserver\\server\\tcpmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D49A3FBD-CB43-4389-9ADE-5564CBF3C737}|GameDBServer\\GameDBServer.csproj|T:\\KTUnity\\SieuKiemHiep-DB\\gamedbserver\\server\\tcpmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D49A3FBD-CB43-4389-9ADE-5564CBF3C737}|GameDBServer\\GameDBServer.csproj|solutionrelative:gamedbserver\\server\\tcpmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D49A3FBD-CB43-4389-9ADE-5564CBF3C737}|GameDBServer\\GameDBServer.csproj|C:\\KIEM KY HIEP\\SERVER\\GAME SERVER\\KIEM_KY_HIEP_S1\\GameDBServer\\gamedbserver\\logic\\guildlogic\\guild_create.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D49A3FBD-CB43-4389-9ADE-5564CBF3C737}|GameDBServer\\GameDBServer.csproj|T:\\KTUnity\\SieuKiemHiep-DB\\gamedbserver\\logic\\guildlogic\\guild_create.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D49A3FBD-CB43-4389-9ADE-5564CBF3C737}|GameDBServer\\GameDBServer.csproj|solutionrelative:gamedbserver\\logic\\guildlogic\\guild_create.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D49A3FBD-CB43-4389-9ADE-5564CBF3C737}|GameDBServer\\GameDBServer.csproj|C:\\KIEM KY HIEP\\SERVER\\GAME SERVER\\KIEM_KY_HIEP_S1\\GameDBServer\\gamedbserver\\db\\cachemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D49A3FBD-CB43-4389-9ADE-5564CBF3C737}|GameDBServer\\GameDBServer.csproj|T:\\KTUnity\\SieuKiemHiep-DB\\gamedbserver\\db\\cachemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D49A3FBD-CB43-4389-9ADE-5564CBF3C737}|GameDBServer\\GameDBServer.csproj|solutionrelative:gamedbserver\\db\\cachemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -106,17 +134,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "TCPCmdHandler.cs",
-              "DocumentMoniker": "C:\\KIEM KY HIEP\\SERVER\\GAME SERVER\\KIEM_KY_HIEP_S1\\GameDBServer\\GameDBServer\\Server\\TCPCmdHandler.cs",
+              "DocumentMoniker": "T:\\KTUnity\\SieuKiemHiep-DB\\GameDBServer\\Server\\TCPCmdHandler.cs",
               "RelativeDocumentMoniker": "GameDBServer\\Server\\TCPCmdHandler.cs",
-              "ToolTip": "C:\\KIEM KY HIEP\\SERVER\\GAME SERVER\\KIEM_KY_HIEP_S1\\GameDBServer\\GameDBServer\\Server\\TCPCmdHandler.cs",
+              "ToolTip": "T:\\KTUnity\\SieuKiemHiep-DB\\GameDBServer\\Server\\TCPCmdHandler.cs",
               "RelativeToolTip": "GameDBServer\\Server\\TCPCmdHandler.cs",
-              "ViewState": "AgIAAAgNAAAAAAAAAAAUwIoNAABJAAAAAAAAAA==",
+              "ViewState": "AgIAAFMFAAAAAAAAAAAAAGYFAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-01T09:27:02.981Z",
               "IsPinned": true,
@@ -124,13 +152,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 14,
               "Title": "BlackMarketItem.cs",
-              "DocumentMoniker": "C:\\KIEM KY HIEP\\SERVER\\GAME SERVER\\KIEM_KY_HIEP_S1\\GameDBServer\\GameDBServer\\Data\\Maker\\BlackMarketItem.cs",
+              "DocumentMoniker": "T:\\KTUnity\\SieuKiemHiep-DB\\GameDBServer\\Data\\Maker\\BlackMarketItem.cs",
               "RelativeDocumentMoniker": "GameDBServer\\Data\\Maker\\BlackMarketItem.cs",
-              "ToolTip": "C:\\KIEM KY HIEP\\SERVER\\GAME SERVER\\KIEM_KY_HIEP_S1\\GameDBServer\\GameDBServer\\Data\\Maker\\BlackMarketItem.cs",
+              "ToolTip": "T:\\KTUnity\\SieuKiemHiep-DB\\GameDBServer\\Data\\Maker\\BlackMarketItem.cs",
               "RelativeToolTip": "GameDBServer\\Data\\Maker\\BlackMarketItem.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAYAAAAAAAAAA==",
+              "ViewState": "AgIAACsAAAAAAAAAAAAAAD4AAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-30T11:15:58.87Z",
               "IsPinned": true,
@@ -138,13 +166,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 7,
               "Title": "BlackMarket.cs",
-              "DocumentMoniker": "C:\\KIEM KY HIEP\\SERVER\\GAME SERVER\\KIEM_KY_HIEP_S1\\GameDBServer\\GameDBServer\\Logic\\BlackMarket\\BlackMarket.cs",
+              "DocumentMoniker": "T:\\KTUnity\\SieuKiemHiep-DB\\GameDBServer\\Logic\\BlackMarket\\BlackMarket.cs",
               "RelativeDocumentMoniker": "GameDBServer\\Logic\\BlackMarket\\BlackMarket.cs",
-              "ToolTip": "C:\\KIEM KY HIEP\\SERVER\\GAME SERVER\\KIEM_KY_HIEP_S1\\GameDBServer\\GameDBServer\\Logic\\BlackMarket\\BlackMarket.cs",
+              "ToolTip": "T:\\KTUnity\\SieuKiemHiep-DB\\GameDBServer\\Logic\\BlackMarket\\BlackMarket.cs",
               "RelativeToolTip": "GameDBServer\\Logic\\BlackMarket\\BlackMarket.cs",
-              "ViewState": "AgIAADkAAAAAAAAAAAAvwEEAAAAbAAAAAAAAAA==",
+              "ViewState": "AgIAAFUBAAAAAAAAAAAqwLUBAABQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-30T11:20:02.211Z",
               "IsPinned": true,
@@ -152,219 +180,323 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "GroupMailManager.cs",
-              "DocumentMoniker": "C:\\KIEM KY HIEP\\SERVER\\GAME SERVER\\KIEM_KY_HIEP_S1\\GameDBServer\\GameDBServer\\Logic\\GroupMailManager.cs",
-              "RelativeDocumentMoniker": "GameDBServer\\Logic\\GroupMailManager.cs",
-              "ToolTip": "C:\\KIEM KY HIEP\\SERVER\\GAME SERVER\\KIEM_KY_HIEP_S1\\GameDBServer\\GameDBServer\\Logic\\GroupMailManager.cs",
-              "RelativeToolTip": "GameDBServer\\Logic\\GroupMailManager.cs",
-              "ViewState": "AgIAAHkAAAAAAAAAAAAEwIoAAABIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-30T11:23:27.31Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "LogManager.cs",
-              "DocumentMoniker": "C:\\KIEM KY HIEP\\SERVER\\GAME SERVER\\KIEM_KY_HIEP_S1\\GameDBServer\\GameDBServer\\Tools\\LogManager.cs",
-              "RelativeDocumentMoniker": "GameDBServer\\Tools\\LogManager.cs",
-              "ToolTip": "C:\\KIEM KY HIEP\\SERVER\\GAME SERVER\\KIEM_KY_HIEP_S1\\GameDBServer\\GameDBServer\\Tools\\LogManager.cs",
-              "RelativeToolTip": "GameDBServer\\Tools\\LogManager.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAUAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-30T11:21:38.424Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\KIEM KY HIEP\\SERVER\\GAME SERVER\\KIEM_KY_HIEP_S1\\GameDBServer\\GameDBServer\\Program.cs",
-              "RelativeDocumentMoniker": "GameDBServer\\Program.cs",
-              "ToolTip": "C:\\KIEM KY HIEP\\SERVER\\GAME SERVER\\KIEM_KY_HIEP_S1\\GameDBServer\\GameDBServer\\Program.cs",
-              "RelativeToolTip": "GameDBServer\\Program.cs",
-              "ViewState": "AgIAAAIDAAAAAAAAAAAEwBMDAAArAAAAAAAAAA==",
+              "Title": "KT_TCPHandler_Family.cs",
+              "DocumentMoniker": "T:\\KTUnity\\SieuKiemHiep-DB\\GameDBServer\\Server\\Network\\KT_TCPHandler_Family.cs",
+              "RelativeDocumentMoniker": "GameDBServer\\Server\\Network\\KT_TCPHandler_Family.cs",
+              "ToolTip": "T:\\KTUnity\\SieuKiemHiep-DB\\GameDBServer\\Server\\Network\\KT_TCPHandler_Family.cs",
+              "RelativeToolTip": "GameDBServer\\Server\\Network\\KT_TCPHandler_Family.cs",
+              "ViewState": "AgIAAGMAAAAAAAAAAAAowHIAAABrAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-17T16:28:58.991Z",
+              "WhenOpened": "2026-04-09T08:24:31.149Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NameManager.cs",
+              "DocumentMoniker": "T:\\KTUnity\\SieuKiemHiep-DB\\GameDBServer\\Logic\\Name\\NameManager.cs",
+              "RelativeDocumentMoniker": "GameDBServer\\Logic\\Name\\NameManager.cs",
+              "ToolTip": "T:\\KTUnity\\SieuKiemHiep-DB\\GameDBServer\\Logic\\Name\\NameManager.cs*",
+              "RelativeToolTip": "GameDBServer\\Logic\\Name\\NameManager.cs*",
+              "ViewState": "AgIAAA0BAAAAAAAAAAASwBwBAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-09T08:24:00.121Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "Global.cs",
-              "DocumentMoniker": "C:\\KIEM KY HIEP\\SERVER\\GAME SERVER\\KIEM_KY_HIEP_S1\\GameDBServer\\GameDBServer\\Logic\\Global.cs",
-              "RelativeDocumentMoniker": "GameDBServer\\Logic\\Global.cs",
-              "ToolTip": "C:\\KIEM KY HIEP\\SERVER\\GAME SERVER\\KIEM_KY_HIEP_S1\\GameDBServer\\GameDBServer\\Logic\\Global.cs",
-              "RelativeToolTip": "GameDBServer\\Logic\\Global.cs",
-              "ViewState": "AgIAAD4EAAAAAAAAAAAcwE8EAAAxAAAAAAAAAA==",
+              "Title": "KTPetManager.cs",
+              "DocumentMoniker": "T:\\KTUnity\\SieuKiemHiep-DB\\GameDBServer\\Logic\\KT_Pet\\KTPetManager.cs",
+              "RelativeDocumentMoniker": "GameDBServer\\Logic\\KT_Pet\\KTPetManager.cs",
+              "ToolTip": "T:\\KTUnity\\SieuKiemHiep-DB\\GameDBServer\\Logic\\KT_Pet\\KTPetManager.cs",
+              "RelativeToolTip": "GameDBServer\\Logic\\KT_Pet\\KTPetManager.cs",
+              "ViewState": "AgIAAGUBAAAAAAAAAAAAAHgBAABBAQAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-17T17:25:01.205Z",
+              "WhenOpened": "2026-04-09T08:01:49.312Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 5,
+              "Title": "GuildManager.cs",
+              "DocumentMoniker": "T:\\KTUnity\\SieuKiemHiep-DB\\GameDBServer\\Logic\\GuildLogic\\GuildManager.cs",
+              "RelativeDocumentMoniker": "GameDBServer\\Logic\\GuildLogic\\GuildManager.cs",
+              "ToolTip": "T:\\KTUnity\\SieuKiemHiep-DB\\GameDBServer\\Logic\\GuildLogic\\GuildManager.cs",
+              "RelativeToolTip": "GameDBServer\\Logic\\GuildLogic\\GuildManager.cs",
+              "ViewState": "AgIAABIDAAAAAAAAAAASwCQDAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-09T08:01:02.978Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:143086161:0:{83107a3e-496a-485e-b455-16ddb978e55e}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "DBWriter.cs",
-              "DocumentMoniker": "C:\\KIEM KY HIEP\\SERVER\\GAME SERVER\\KIEM_KY_HIEP_S1\\GameDBServer\\GameDBServer\\DB\\DBWriter.cs",
+              "DocumentMoniker": "T:\\KTUnity\\SieuKiemHiep-DB\\GameDBServer\\DB\\DBWriter.cs",
               "RelativeDocumentMoniker": "GameDBServer\\DB\\DBWriter.cs",
-              "ToolTip": "C:\\KIEM KY HIEP\\SERVER\\GAME SERVER\\KIEM_KY_HIEP_S1\\GameDBServer\\GameDBServer\\DB\\DBWriter.cs",
+              "ToolTip": "T:\\KTUnity\\SieuKiemHiep-DB\\GameDBServer\\DB\\DBWriter.cs",
               "RelativeToolTip": "GameDBServer\\DB\\DBWriter.cs",
-              "ViewState": "AgIAALAHAAAAAAAAAAAcwLMHAAArAAAAAAAAAA==",
+              "ViewState": "AgIAAMEAAAAAAAAAAAAhwMsAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-18T15:32:18.978Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "DBQuery.cs",
-              "DocumentMoniker": "C:\\KIEM KY HIEP\\SERVER\\GAME SERVER\\KIEM_KY_HIEP_S1\\GameDBServer\\GameDBServer\\DB\\DBQuery.cs",
-              "RelativeDocumentMoniker": "GameDBServer\\DB\\DBQuery.cs",
-              "ToolTip": "C:\\KIEM KY HIEP\\SERVER\\GAME SERVER\\KIEM_KY_HIEP_S1\\GameDBServer\\GameDBServer\\DB\\DBQuery.cs",
-              "RelativeToolTip": "GameDBServer\\DB\\DBQuery.cs",
-              "ViewState": "AgIAAGkFAAAAAAAAAAAAAHwFAABmAAAAAAAAAA==",
+              "DocumentIndex": 10,
+              "Title": "Family_RequestJoin.cs",
+              "DocumentMoniker": "T:\\KTUnity\\SieuKiemHiep-DB\\GameDBServer\\Logic\\FamilyLogic\\Family_RequestJoin.cs",
+              "RelativeDocumentMoniker": "GameDBServer\\Logic\\FamilyLogic\\Family_RequestJoin.cs",
+              "ToolTip": "T:\\KTUnity\\SieuKiemHiep-DB\\GameDBServer\\Logic\\FamilyLogic\\Family_RequestJoin.cs",
+              "RelativeToolTip": "GameDBServer\\Logic\\FamilyLogic\\Family_RequestJoin.cs",
+              "ViewState": "AgIAAMgAAAAAAAAAAAAwwM4AAABOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-22T05:05:41.399Z",
+              "WhenOpened": "2026-04-09T08:00:42.129Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
-              "Title": "MarketItemData.cs",
-              "DocumentMoniker": "C:\\KIEM KY HIEP\\SERVER\\GAME SERVER\\KIEM_KY_HIEP_S1\\GameDBServer\\GameDBServer\\Data\\Maker\\MarketItemData.cs",
-              "RelativeDocumentMoniker": "GameDBServer\\Data\\Maker\\MarketItemData.cs",
-              "ToolTip": "C:\\KIEM KY HIEP\\SERVER\\GAME SERVER\\KIEM_KY_HIEP_S1\\GameDBServer\\GameDBServer\\Data\\Maker\\MarketItemData.cs",
-              "RelativeToolTip": "GameDBServer\\Data\\Maker\\MarketItemData.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-18T03:49:07.531Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "StallData.cs",
-              "DocumentMoniker": "C:\\KIEM KY HIEP\\SERVER\\GAME SERVER\\KIEM_KY_HIEP_S1\\GameDBServer\\GameDBServer\\Data\\StallData.cs",
-              "RelativeDocumentMoniker": "GameDBServer\\Data\\StallData.cs",
-              "ToolTip": "C:\\KIEM KY HIEP\\SERVER\\GAME SERVER\\KIEM_KY_HIEP_S1\\GameDBServer\\GameDBServer\\Data\\StallData.cs",
-              "RelativeToolTip": "GameDBServer\\Data\\StallData.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-17T16:24:57.881Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "StallDbAction.cs",
-              "DocumentMoniker": "C:\\KIEM KY HIEP\\SERVER\\GAME SERVER\\KIEM_KY_HIEP_S1\\GameDBServer\\GameDBServer\\Data\\StallDbAction.cs",
-              "RelativeDocumentMoniker": "GameDBServer\\Data\\StallDbAction.cs",
-              "ToolTip": "C:\\KIEM KY HIEP\\SERVER\\GAME SERVER\\KIEM_KY_HIEP_S1\\GameDBServer\\GameDBServer\\Data\\StallDbAction.cs",
-              "RelativeToolTip": "GameDBServer\\Data\\StallDbAction.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAADMAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-17T16:25:11.177Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "StallManager.cs",
-              "DocumentMoniker": "C:\\KIEM KY HIEP\\SERVER\\GAME SERVER\\KIEM_KY_HIEP_S1\\GameDBServer\\GameDBServer\\Logic\\KT_StallManager\\StallManager.cs",
-              "RelativeDocumentMoniker": "GameDBServer\\Logic\\KT_StallManager\\StallManager.cs",
-              "ToolTip": "C:\\KIEM KY HIEP\\SERVER\\GAME SERVER\\KIEM_KY_HIEP_S1\\GameDBServer\\GameDBServer\\Logic\\KT_StallManager\\StallManager.cs",
-              "RelativeToolTip": "GameDBServer\\Logic\\KT_StallManager\\StallManager.cs",
-              "ViewState": "AgIAAK4BAAAAAAAAAAAEwMEBAAAcAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-17T16:24:06.903Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "TimeUtil.cs",
-              "DocumentMoniker": "C:\\KIEM KY HIEP\\SERVER\\GAME SERVER\\KIEM_KY_HIEP_S1\\GameDBServer\\GameDBServer\\Core\\TimeUtil.cs",
-              "RelativeDocumentMoniker": "GameDBServer\\Core\\TimeUtil.cs",
-              "ToolTip": "C:\\KIEM KY HIEP\\SERVER\\GAME SERVER\\KIEM_KY_HIEP_S1\\GameDBServer\\GameDBServer\\Core\\TimeUtil.cs",
-              "RelativeToolTip": "GameDBServer\\Core\\TimeUtil.cs",
-              "ViewState": "AgIAAKEAAAAAAAAAAAAqwLsAAAA6AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-17T16:26:34.796Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Enumeration.cs",
-              "DocumentMoniker": "C:\\KIEM KY HIEP\\SERVER\\GAME SERVER\\KIEM_KY_HIEP_S1\\GameDBServer\\GameDBServer\\Logic\\Enumeration.cs",
-              "RelativeDocumentMoniker": "GameDBServer\\Logic\\Enumeration.cs",
-              "ToolTip": "C:\\KIEM KY HIEP\\SERVER\\GAME SERVER\\KIEM_KY_HIEP_S1\\GameDBServer\\GameDBServer\\Logic\\Enumeration.cs",
-              "RelativeToolTip": "GameDBServer\\Logic\\Enumeration.cs",
-              "ViewState": "AgIAAOMCAAAAAAAAAAAEwPQCAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-14T13:52:46.039Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "MarketManager.cs",
-              "DocumentMoniker": "C:\\KIEM KY HIEP\\SERVER\\GAME SERVER\\KIEM_KY_HIEP_S1\\GameDBServer\\GameDBServer\\Logic\\Market\\MarketManager.cs",
-              "RelativeDocumentMoniker": "GameDBServer\\Logic\\Market\\MarketManager.cs",
-              "ToolTip": "C:\\KIEM KY HIEP\\SERVER\\GAME SERVER\\KIEM_KY_HIEP_S1\\GameDBServer\\GameDBServer\\Logic\\Market\\MarketManager.cs",
-              "RelativeToolTip": "GameDBServer\\Logic\\Market\\MarketManager.cs",
-              "ViewState": "AgIAABwAAAAAAAAAAAAgwDMAAAA0AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-18T03:49:49.685Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
               "Title": "RankingManager.cs",
-              "DocumentMoniker": "C:\\KIEM KY HIEP\\SERVER\\GAME SERVER\\KIEM_KY_HIEP_S1\\GameDBServer\\GameDBServer\\Logic\\Ranking\\RankingManager.cs",
+              "DocumentMoniker": "T:\\KTUnity\\SieuKiemHiep-DB\\GameDBServer\\Logic\\Ranking\\RankingManager.cs",
               "RelativeDocumentMoniker": "GameDBServer\\Logic\\Ranking\\RankingManager.cs",
-              "ToolTip": "C:\\KIEM KY HIEP\\SERVER\\GAME SERVER\\KIEM_KY_HIEP_S1\\GameDBServer\\GameDBServer\\Logic\\Ranking\\RankingManager.cs",
+              "ToolTip": "T:\\KTUnity\\SieuKiemHiep-DB\\GameDBServer\\Logic\\Ranking\\RankingManager.cs",
               "RelativeToolTip": "GameDBServer\\Logic\\Ranking\\RankingManager.cs",
-              "ViewState": "AgIAAA0CAAAAAAAAAAAmwBYCAAAVAAAAAAAAAA==",
+              "ViewState": "AgIAAL4BAAAAAAAAAAApwNABAABLAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-13T12:49:06.868Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 6,
+              "Title": "Global.cs",
+              "DocumentMoniker": "T:\\KTUnity\\SieuKiemHiep-DB\\GameDBServer\\Logic\\Global.cs",
+              "RelativeDocumentMoniker": "GameDBServer\\Logic\\Global.cs",
+              "ToolTip": "T:\\KTUnity\\SieuKiemHiep-DB\\GameDBServer\\Logic\\Global.cs",
+              "RelativeToolTip": "GameDBServer\\Logic\\Global.cs",
+              "ViewState": "AgIAADgEAAAAAAAAAAAqwEsEAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-17T17:25:01.205Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "DBRoleInfo.cs",
-              "DocumentMoniker": "C:\\KIEM KY HIEP\\SERVER\\GAME SERVER\\KIEM_KY_HIEP_S1\\GameDBServer\\GameDBServer\\DB\\DBRoleInfo.cs",
+              "DocumentMoniker": "T:\\KTUnity\\SieuKiemHiep-DB\\GameDBServer\\DB\\DBRoleInfo.cs",
               "RelativeDocumentMoniker": "GameDBServer\\DB\\DBRoleInfo.cs",
-              "ToolTip": "C:\\KIEM KY HIEP\\SERVER\\GAME SERVER\\KIEM_KY_HIEP_S1\\GameDBServer\\GameDBServer\\DB\\DBRoleInfo.cs",
+              "ToolTip": "T:\\KTUnity\\SieuKiemHiep-DB\\GameDBServer\\DB\\DBRoleInfo.cs",
               "RelativeToolTip": "GameDBServer\\DB\\DBRoleInfo.cs",
-              "ViewState": "AgIAABMCAAAAAAAAAAAIwCsCAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAALwFAAAAAAAAAAAqwM8FAABaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-16T12:35:35.507Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "MyDbConnection3.cs",
-              "DocumentMoniker": "C:\\KIEM KY HIEP\\SERVER\\GAME SERVER\\KIEM_KY_HIEP_S1\\GameDBServer\\GameDBServer\\DB\\MyDbConnection3.cs",
-              "RelativeDocumentMoniker": "GameDBServer\\DB\\MyDbConnection3.cs",
-              "ToolTip": "C:\\KIEM KY HIEP\\SERVER\\GAME SERVER\\KIEM_KY_HIEP_S1\\GameDBServer\\GameDBServer\\DB\\MyDbConnection3.cs",
-              "RelativeToolTip": "GameDBServer\\DB\\MyDbConnection3.cs",
-              "ViewState": "AgIAAI0BAAAAAAAAAAAUwKEBAAAAAAAAAAAAAA==",
+              "DocumentIndex": 11,
+              "Title": "FamilyManager.cs",
+              "DocumentMoniker": "T:\\KTUnity\\SieuKiemHiep-DB\\GameDBServer\\Logic\\FamilyLogic\\FamilyManager.cs",
+              "RelativeDocumentMoniker": "GameDBServer\\Logic\\FamilyLogic\\FamilyManager.cs",
+              "ToolTip": "T:\\KTUnity\\SieuKiemHiep-DB\\GameDBServer\\Logic\\FamilyLogic\\FamilyManager.cs",
+              "RelativeToolTip": "GameDBServer\\Logic\\FamilyLogic\\FamilyManager.cs",
+              "ViewState": "AgIAAGQCAAAAAAAAAAAMwHcCAABlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-17T16:25:54.002Z",
+              "WhenOpened": "2026-04-09T07:59:54.48Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "DBUserInfo.cs",
+              "DocumentMoniker": "T:\\KTUnity\\SieuKiemHiep-DB\\GameDBServer\\DB\\DBUserInfo.cs",
+              "RelativeDocumentMoniker": "GameDBServer\\DB\\DBUserInfo.cs",
+              "ToolTip": "T:\\KTUnity\\SieuKiemHiep-DB\\GameDBServer\\DB\\DBUserInfo.cs",
+              "RelativeToolTip": "GameDBServer\\DB\\DBUserInfo.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAI8AAABmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-09T07:59:35.637Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "LogManager.cs",
+              "DocumentMoniker": "T:\\KTUnity\\SieuKiemHiep-DB\\GameDBServer\\Tools\\LogManager.cs",
+              "RelativeDocumentMoniker": "GameDBServer\\Tools\\LogManager.cs",
+              "ToolTip": "T:\\KTUnity\\SieuKiemHiep-DB\\GameDBServer\\Tools\\LogManager.cs",
+              "RelativeToolTip": "GameDBServer\\Tools\\LogManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-30T11:21:38.424Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Program.cs",
+              "DocumentMoniker": "T:\\KTUnity\\SieuKiemHiep-DB\\GameDBServer\\Program.cs",
+              "RelativeDocumentMoniker": "GameDBServer\\Program.cs",
+              "ToolTip": "T:\\KTUnity\\SieuKiemHiep-DB\\GameDBServer\\Program.cs",
+              "RelativeToolTip": "GameDBServer\\Program.cs",
+              "ViewState": "AgIAAAIDAAAAAAAAAAAEwBMDAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-17T16:28:58.991Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "DBQuery.cs",
+              "DocumentMoniker": "T:\\KTUnity\\SieuKiemHiep-DB\\GameDBServer\\DB\\DBQuery.cs",
+              "RelativeDocumentMoniker": "GameDBServer\\DB\\DBQuery.cs",
+              "ToolTip": "T:\\KTUnity\\SieuKiemHiep-DB\\GameDBServer\\DB\\DBQuery.cs",
+              "RelativeToolTip": "GameDBServer\\DB\\DBQuery.cs",
+              "ViewState": "AgIAAJcHAAAAAAAAAAAhwK8HAABbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T05:05:41.399Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "GroupMailManager.cs",
+              "DocumentMoniker": "T:\\KTUnity\\SieuKiemHiep-DB\\GameDBServer\\Logic\\GroupMailManager.cs",
+              "RelativeDocumentMoniker": "GameDBServer\\Logic\\GroupMailManager.cs",
+              "ToolTip": "T:\\KTUnity\\SieuKiemHiep-DB\\GameDBServer\\Logic\\GroupMailManager.cs",
+              "RelativeToolTip": "GameDBServer\\Logic\\GroupMailManager.cs",
+              "ViewState": "AgIAAHkAAAAAAAAAAAAEwIoAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-30T11:23:27.31Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{269a02dc-6af8-11d3-bdc4-00c04f688e50}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "MarketItemData.cs",
+              "DocumentMoniker": "T:\\KTUnity\\SieuKiemHiep-DB\\GameDBServer\\Data\\Maker\\MarketItemData.cs",
+              "RelativeDocumentMoniker": "GameDBServer\\Data\\Maker\\MarketItemData.cs",
+              "ToolTip": "T:\\KTUnity\\SieuKiemHiep-DB\\GameDBServer\\Data\\Maker\\MarketItemData.cs",
+              "RelativeToolTip": "GameDBServer\\Data\\Maker\\MarketItemData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-18T03:49:07.531Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "StallData.cs",
+              "DocumentMoniker": "T:\\KTUnity\\SieuKiemHiep-DB\\GameDBServer\\Data\\StallData.cs",
+              "RelativeDocumentMoniker": "GameDBServer\\Data\\StallData.cs",
+              "ToolTip": "T:\\KTUnity\\SieuKiemHiep-DB\\GameDBServer\\Data\\StallData.cs",
+              "RelativeToolTip": "GameDBServer\\Data\\StallData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-17T16:24:57.881Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "StallDbAction.cs",
+              "DocumentMoniker": "T:\\KTUnity\\SieuKiemHiep-DB\\GameDBServer\\Data\\StallDbAction.cs",
+              "RelativeDocumentMoniker": "GameDBServer\\Data\\StallDbAction.cs",
+              "ToolTip": "T:\\KTUnity\\SieuKiemHiep-DB\\GameDBServer\\Data\\StallDbAction.cs",
+              "RelativeToolTip": "GameDBServer\\Data\\StallDbAction.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAADMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-17T16:25:11.177Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "StallManager.cs",
+              "DocumentMoniker": "T:\\KTUnity\\SieuKiemHiep-DB\\GameDBServer\\Logic\\KT_StallManager\\StallManager.cs",
+              "RelativeDocumentMoniker": "GameDBServer\\Logic\\KT_StallManager\\StallManager.cs",
+              "ToolTip": "T:\\KTUnity\\SieuKiemHiep-DB\\GameDBServer\\Logic\\KT_StallManager\\StallManager.cs",
+              "RelativeToolTip": "GameDBServer\\Logic\\KT_StallManager\\StallManager.cs",
+              "ViewState": "AgIAAK4BAAAAAAAAAAAEwMEBAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-17T16:24:06.903Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "TimeUtil.cs",
+              "DocumentMoniker": "T:\\KTUnity\\SieuKiemHiep-DB\\GameDBServer\\Core\\TimeUtil.cs",
+              "RelativeDocumentMoniker": "GameDBServer\\Core\\TimeUtil.cs",
+              "ToolTip": "T:\\KTUnity\\SieuKiemHiep-DB\\GameDBServer\\Core\\TimeUtil.cs",
+              "RelativeToolTip": "GameDBServer\\Core\\TimeUtil.cs",
+              "ViewState": "AgIAAKEAAAAAAAAAAAAqwLsAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-17T16:26:34.796Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 19,
+              "Title": "Enumeration.cs",
+              "DocumentMoniker": "T:\\KTUnity\\SieuKiemHiep-DB\\GameDBServer\\Logic\\Enumeration.cs",
+              "RelativeDocumentMoniker": "GameDBServer\\Logic\\Enumeration.cs",
+              "ToolTip": "T:\\KTUnity\\SieuKiemHiep-DB\\GameDBServer\\Logic\\Enumeration.cs",
+              "RelativeToolTip": "GameDBServer\\Logic\\Enumeration.cs",
+              "ViewState": "AgIAAOMCAAAAAAAAAAAEwPQCAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-14T13:52:46.039Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "MarketManager.cs",
+              "DocumentMoniker": "T:\\KTUnity\\SieuKiemHiep-DB\\GameDBServer\\Logic\\Market\\MarketManager.cs",
+              "RelativeDocumentMoniker": "GameDBServer\\Logic\\Market\\MarketManager.cs",
+              "ToolTip": "T:\\KTUnity\\SieuKiemHiep-DB\\GameDBServer\\Logic\\Market\\MarketManager.cs",
+              "RelativeToolTip": "GameDBServer\\Logic\\Market\\MarketManager.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAgwDMAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-18T03:49:49.685Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "MyDbConnection3.cs",
+              "DocumentMoniker": "T:\\KTUnity\\SieuKiemHiep-DB\\GameDBServer\\DB\\MyDbConnection3.cs",
+              "RelativeDocumentMoniker": "GameDBServer\\DB\\MyDbConnection3.cs",
+              "ToolTip": "T:\\KTUnity\\SieuKiemHiep-DB\\GameDBServer\\DB\\MyDbConnection3.cs",
+              "RelativeToolTip": "GameDBServer\\DB\\MyDbConnection3.cs",
+              "ViewState": "AgIAAI0BAAAAAAAAAAAUwKEBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-17T16:25:54.002Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
               "Title": "OccupationData.cs",
-              "DocumentMoniker": "C:\\KIEM KY HIEP\\SERVER\\GAME SERVER\\KIEM_KY_HIEP_S1\\GameDBServer\\GameDBServer\\Data\\OccupationData.cs",
+              "DocumentMoniker": "T:\\KTUnity\\SieuKiemHiep-DB\\GameDBServer\\Data\\OccupationData.cs",
               "RelativeDocumentMoniker": "GameDBServer\\Data\\OccupationData.cs",
-              "ToolTip": "C:\\KIEM KY HIEP\\SERVER\\GAME SERVER\\KIEM_KY_HIEP_S1\\GameDBServer\\GameDBServer\\Data\\OccupationData.cs",
+              "ToolTip": "T:\\KTUnity\\SieuKiemHiep-DB\\GameDBServer\\Data\\OccupationData.cs",
               "RelativeToolTip": "GameDBServer\\Data\\OccupationData.cs",
               "ViewState": "AQIAAAMAAADA/v///78twBoAAAAYAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -372,11 +504,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 27,
               "Title": "DBManager.cs",
-              "DocumentMoniker": "C:\\KIEM KY HIEP\\SERVER\\GAME SERVER\\KIEM_KY_HIEP_S1\\GameDBServer\\GameDBServer\\DB\\DBManager.cs",
+              "DocumentMoniker": "T:\\KTUnity\\SieuKiemHiep-DB\\GameDBServer\\DB\\DBManager.cs",
               "RelativeDocumentMoniker": "GameDBServer\\DB\\DBManager.cs",
-              "ToolTip": "C:\\KIEM KY HIEP\\SERVER\\GAME SERVER\\KIEM_KY_HIEP_S1\\GameDBServer\\GameDBServer\\DB\\DBManager.cs",
+              "ToolTip": "T:\\KTUnity\\SieuKiemHiep-DB\\GameDBServer\\DB\\DBManager.cs",
               "RelativeToolTip": "GameDBServer\\DB\\DBManager.cs",
               "ViewState": "AQIAAMgAAAAAAAAAAAAhwOIAAAA6AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -384,11 +516,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 28,
               "Title": "TCPManager.cs",
-              "DocumentMoniker": "C:\\KIEM KY HIEP\\SERVER\\GAME SERVER\\KIEM_KY_HIEP_S1\\GameDBServer\\GameDBServer\\Server\\TCPManager.cs",
+              "DocumentMoniker": "T:\\KTUnity\\SieuKiemHiep-DB\\GameDBServer\\Server\\TCPManager.cs",
               "RelativeDocumentMoniker": "GameDBServer\\Server\\TCPManager.cs",
-              "ToolTip": "C:\\KIEM KY HIEP\\SERVER\\GAME SERVER\\KIEM_KY_HIEP_S1\\GameDBServer\\GameDBServer\\Server\\TCPManager.cs",
+              "ToolTip": "T:\\KTUnity\\SieuKiemHiep-DB\\GameDBServer\\Server\\TCPManager.cs",
               "RelativeToolTip": "GameDBServer\\Server\\TCPManager.cs",
               "ViewState": "AQIAAFcAAAAgAAAAAMAjwGAAAAAeAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -396,11 +528,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 30,
               "Title": "CacheManager.cs",
-              "DocumentMoniker": "C:\\KIEM KY HIEP\\SERVER\\GAME SERVER\\KIEM_KY_HIEP_S1\\GameDBServer\\GameDBServer\\DB\\CacheManager.cs",
+              "DocumentMoniker": "T:\\KTUnity\\SieuKiemHiep-DB\\GameDBServer\\DB\\CacheManager.cs",
               "RelativeDocumentMoniker": "GameDBServer\\DB\\CacheManager.cs",
-              "ToolTip": "C:\\KIEM KY HIEP\\SERVER\\GAME SERVER\\KIEM_KY_HIEP_S1\\GameDBServer\\GameDBServer\\DB\\CacheManager.cs",
+              "ToolTip": "T:\\KTUnity\\SieuKiemHiep-DB\\GameDBServer\\DB\\CacheManager.cs",
               "RelativeToolTip": "GameDBServer\\DB\\CacheManager.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAYAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -408,15 +540,29 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 29,
               "Title": "Guild_Create.cs",
-              "DocumentMoniker": "C:\\KIEM KY HIEP\\SERVER\\GAME SERVER\\KIEM_KY_HIEP_S1\\GameDBServer\\GameDBServer\\Logic\\GuildLogic\\Guild_Create.cs",
+              "DocumentMoniker": "T:\\KTUnity\\SieuKiemHiep-DB\\GameDBServer\\Logic\\GuildLogic\\Guild_Create.cs",
               "RelativeDocumentMoniker": "GameDBServer\\Logic\\GuildLogic\\Guild_Create.cs",
-              "ToolTip": "C:\\KIEM KY HIEP\\SERVER\\GAME SERVER\\KIEM_KY_HIEP_S1\\GameDBServer\\GameDBServer\\Logic\\GuildLogic\\Guild_Create.cs",
+              "ToolTip": "T:\\KTUnity\\SieuKiemHiep-DB\\GameDBServer\\Logic\\GuildLogic\\Guild_Create.cs",
               "RelativeToolTip": "GameDBServer\\Logic\\GuildLogic\\Guild_Create.cs",
               "ViewState": "AQIAABgAAABAMzMzM7MewEEAAABJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-16T17:23:39.736Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 2115,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{5a4e9529-b6a0-46b5-be4f-0f0b239bc0eb}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
             }
           ]
         }

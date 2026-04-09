@@ -141,7 +141,7 @@ namespace GameDBServer.DB
                 for (int i = 0; i < cmd.Table.Rows.Count; i++)
                 {
                     ListRoleIDs.Add(Convert.ToInt32(cmd.Table.Rows[i]["rid"].ToString()));
-                    ListRoleNames.Add(cmd.Table.Rows[i]["rname"].ToString());
+                    ListRoleNames.Add(DataHelper.Base64Decode(cmd.Table.Rows[i]["rname"].ToString()));
                     ListRoleSexes.Add(Convert.ToInt32(cmd.Table.Rows[i]["sex"].ToString()));
                     ListRoleOccups.Add(Convert.ToInt32(cmd.Table.Rows[i]["occupation"].ToString()));
                     ListRoleLevels.Add(Convert.ToInt32(cmd.Table.Rows[i]["level"].ToString()));

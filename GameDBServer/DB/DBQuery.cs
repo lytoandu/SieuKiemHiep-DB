@@ -1965,7 +1965,7 @@ namespace GameDBServer.DB
                         {
                             RoleID = Global.SafeConvertToInt32(reader["rid"].ToString()),
                             ZoneID = Global.SafeConvertToInt32(reader["zoneid"].ToString()),
-                            RoleName = reader["rname"].ToString(),
+                            RoleName = DataHelper.Base64Decode(reader["rname"].ToString()),
                             DayID = Global.SafeConvertToInt32(reader["dayid"].ToString()),
                             TotalRoleNum = Global.SafeConvertToInt32(reader["totalrolenum"].ToString()),
                         });

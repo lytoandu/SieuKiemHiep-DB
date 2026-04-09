@@ -731,7 +731,7 @@ namespace GameDBServer.DB
         {
             dbRoleInfo.RoleID = Convert.ToInt32(cmd.Table.Rows[index]["rid"]);
             dbRoleInfo.UserID = cmd.Table.Rows[index]["userid"].ToString();
-            dbRoleInfo.RoleName = cmd.Table.Rows[index]["rname"].ToString();
+            dbRoleInfo.RoleName = DataHelper.Base64Decode(cmd.Table.Rows[index]["rname"].ToString());
             dbRoleInfo.RoleSex = Convert.ToInt32(cmd.Table.Rows[index]["sex"]);
             dbRoleInfo.Occupation = Convert.ToInt32(cmd.Table.Rows[index]["occupation"]);
             dbRoleInfo.SubID = Convert.ToInt32(cmd.Table.Rows[index]["sub_id"]);
@@ -862,7 +862,7 @@ namespace GameDBServer.DB
 
                     if (reader.Read())
                     {
-                        roleName = reader["rname"].ToString();
+                        roleName = DataHelper.Base64Decode(reader["rname"].ToString());
                     }
 
                     cmd.Dispose();
@@ -1485,7 +1485,7 @@ namespace GameDBServer.DB
         {
             List<Tuple<int, string>> resultList = new List<Tuple<int, string>>();
 
-            string sql = string.Format("SELECT rid,rname FROM t_roles where rname='{0}'", rolename);
+            string sql = string.Format("SELECT rid,rname FROM t_roles where rname='{0}'", DataHelper.Base64Encode(rolename));
             GameDBManager.SystemServerSQLEvents.AddEvent(string.Format("+SQL: {0}", sql), EventLevels.Important);
             MySQLCommand cmd = new MySQLCommand(sql, conn);
 
