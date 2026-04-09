@@ -1,0 +1,2 @@
+H:\KT_Project\GameDBServer\GameDBServer\obj\x86\Release\GameDBServer.csproj.AssemblyReference.cache
+H:\KT_Project\GameDBServer\GameDBServer\obj\x86\Release\GameDBServer.csproj.CoreCompileInputs.cache

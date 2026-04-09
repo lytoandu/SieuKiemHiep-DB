@@ -1,0 +1,263 @@
+g:\mu2.1\server\GameDBServer\GameDBServer\bin\Debug\GameDBServer.exe
+g:\mu2.1\server\GameDBServer\GameDBServer\bin\Debug\GameDBServer.pdb
+g:\mu2.1\server\GameDBServer\GameDBServer\bin\Debug\MySQLDriverCS.dll
+g:\mu2.1\server\GameDBServer\GameDBServer\bin\Debug\protobuf-net.dll
+g:\mu2.1\server\GameDBServer\GameDBServer\bin\Debug\zlib.net.dll
+g:\mu2.1\server\GameDBServer\GameDBServer\obj\x86\Debug\GameDBServer.exe
+g:\mu2.1\server\GameDBServer\GameDBServer\obj\x86\Debug\GameDBServer.pdb
+g:\mu2.1\server\GameDBServer\GameDBServer\obj\x86\Debug\GameDBServer.csprojResolveAssemblyReference.cache
+I:\mu2.1\server\GameDBServer\GameDBServer\obj\x86\Debug\GameDBServer.exe
+I:\mu2.1\server\GameDBServer\GameDBServer\obj\x86\Debug\GameDBServer.pdb
+I:\mu2.1\server\GameDBServer\GameDBServer\bin\Debug\GameDBServer.exe
+I:\mu2.1\server\GameDBServer\GameDBServer\bin\Debug\GameDBServer.pdb
+I:\mu2.1\server\GameDBServer\GameDBServer\bin\Debug\MySQLDriverCS.dll
+I:\mu2.1\server\GameDBServer\GameDBServer\bin\Debug\protobuf-net.dll
+I:\mu2.1\server\GameDBServer\GameDBServer\bin\Debug\zlib.net.dll
+I:\mu2.1\server\GameDBServer\GameDBServer\obj\x86\Debug\GameDBServer.csprojResolveAssemblyReference.cache
+D:\mu2.1\server\GameDBServer\GameDBServer\obj\x86\Debug\GameDBServer.exe
+D:\mu2.1\server\GameDBServer\GameDBServer\obj\x86\Debug\GameDBServer.pdb
+D:\mu2.1\server\GameDBServer\GameDBServer\bin\Debug\GameDBServer.exe
+D:\mu2.1\server\GameDBServer\GameDBServer\bin\Debug\GameDBServer.pdb
+D:\mu2.1\server\GameDBServer\GameDBServer\bin\Debug\MySQLDriverCS.dll
+D:\mu2.1\server\GameDBServer\GameDBServer\bin\Debug\protobuf-net.dll
+D:\mu2.1\server\GameDBServer\GameDBServer\bin\Debug\zlib.net.dll
+D:\mu2.1\server\GameDBServer\GameDBServer\obj\x86\Debug\GameDBServer.csprojResolveAssemblyReference.cache
+Z:\server\GameDBServer\GameDBServer\obj\x86\Debug\GameDBServer.exe
+Z:\server\GameDBServer\GameDBServer\obj\x86\Debug\GameDBServer.pdb
+Z:\server\GameDBServer\GameDBServer\bin\Debug\GameDBServer.exe
+Z:\server\GameDBServer\GameDBServer\bin\Debug\MySQLDriverCS.dll
+Z:\server\GameDBServer\GameDBServer\bin\Debug\protobuf-net.dll
+Z:\server\GameDBServer\GameDBServer\bin\Debug\zlib.net.dll
+Z:\server\GameDBServer\GameDBServer\bin\Debug\GameDBServer.pdb
+Z:\server\GameDBServer\GameDBServer\obj\x86\Debug\GameDBServer.csprojResolveAssemblyReference.cache
+H:\考试类\毛概\2016 秋季概论实践课作业\server\server\GameDBServer\GameDBServer\obj\x86\Debug\GameDBServer.exe
+H:\考试类\毛概\2016 秋季概论实践课作业\server\server\GameDBServer\GameDBServer\obj\x86\Debug\GameDBServer.pdb
+E:\全民奇迹私服\apk\210移植\GameDBServer\GameDBServer\obj\x86\Debug\GameDBServer.exe
+E:\全民奇迹私服\apk\210移植\GameDBServer\GameDBServer\obj\x86\Debug\GameDBServer.pdb
+E:\全民奇迹私服\apk\210移植\GameDBServer\GameDBServer\bin\Debug\GameDBServer.exe
+E:\全民奇迹私服\apk\210移植\GameDBServer\GameDBServer\bin\Debug\GameDBServer.pdb
+E:\全民奇迹私服\apk\210移植\GameDBServer\GameDBServer\bin\Debug\MySQLDriverCS.dll
+E:\全民奇迹私服\apk\210移植\GameDBServer\GameDBServer\bin\Debug\protobuf-net.dll
+E:\全民奇迹私服\apk\210移植\GameDBServer\GameDBServer\bin\Debug\zlib.net.dll
+D:\MuMobile\2.6\New\Srouce MU 2.6_BANGOC\Srouce MU 2.6\Servernewst\GameDBServer\GameDBServer\obj\x86\Debug\GameDBServer.exe
+D:\MuMobile\2.6\New\Srouce MU 2.6_BANGOC\Srouce MU 2.6\Servernewst\GameDBServer\GameDBServer\obj\x86\Debug\GameDBServer.pdb
+D:\MuMobile\2.6\New\Srouce MU 2.6_BANGOC\Srouce MU 2.6\Servernewst\GameDBServer\GameDBServer\bin\Debug\GameDBServer.exe
+D:\MuMobile\2.6\New\Srouce MU 2.6_BANGOC\Srouce MU 2.6\Servernewst\GameDBServer\GameDBServer\bin\Debug\GameDBServer.pdb
+D:\MuMobile\2.6\New\Srouce MU 2.6_BANGOC\Srouce MU 2.6\Servernewst\GameDBServer\GameDBServer\bin\Debug\MySQLDriverCS.dll
+D:\MuMobile\2.6\New\Srouce MU 2.6_BANGOC\Srouce MU 2.6\Servernewst\GameDBServer\GameDBServer\bin\Debug\protobuf-net.dll
+D:\MuMobile\2.6\New\Srouce MU 2.6_BANGOC\Srouce MU 2.6\Servernewst\GameDBServer\GameDBServer\bin\Debug\zlib.net.dll
+D:\MuMobile\2.6\New\Srouce MU 2.6_BANGOC\Srouce MU 2.6\Servernewst\GameDBServer\GameDBServer\obj\x86\Debug\GameDBServer.csprojResolveAssemblyReference.cache
+D:\Develop\PROJECT_Q5\Soure26\GameDBServer\GameDBServer\bin\Debug\GameDBServer.exe
+D:\Develop\PROJECT_Q5\Soure26\GameDBServer\GameDBServer\bin\Debug\GameDBServer.pdb
+D:\Develop\PROJECT_Q5\Soure26\GameDBServer\GameDBServer\bin\Debug\MySQLDriverCS.dll
+D:\Develop\PROJECT_Q5\Soure26\GameDBServer\GameDBServer\bin\Debug\protobuf-net.dll
+D:\Develop\PROJECT_Q5\Soure26\GameDBServer\GameDBServer\bin\Debug\zlib.net.dll
+D:\Develop\PROJECT_Q5\Soure26\GameDBServer\GameDBServer\obj\x86\Debug\GameDBServer.csprojResolveAssemblyReference.cache
+D:\Develop\PROJECT_Q5\Soure26\GameDBServer\GameDBServer\obj\x86\Debug\GameDBServer.exe
+D:\Develop\PROJECT_Q5\Soure26\GameDBServer\GameDBServer\obj\x86\Debug\GameDBServer.pdb
+G:\KT_Project\Server\GameDBServer\GameDBServer\bin\Debug\GameDBServer.exe
+G:\KT_Project\Server\GameDBServer\GameDBServer\bin\Debug\GameDBServer.pdb
+G:\KT_Project\Server\GameDBServer\GameDBServer\bin\Debug\MySQLDriverCS.dll
+G:\KT_Project\Server\GameDBServer\GameDBServer\bin\Debug\protobuf-net.dll
+G:\KT_Project\Server\GameDBServer\GameDBServer\bin\Debug\zlib.net.dll
+G:\KT_Project\Server\GameDBServer\GameDBServer\obj\x86\Debug\GameDBServer.csprojAssemblyReference.cache
+G:\KT_Project\Server\GameDBServer\GameDBServer\obj\x86\Debug\GameDBServer.csproj.CoreCompileInputs.cache
+G:\KT_Project\Server\GameDBServer\GameDBServer\obj\x86\Debug\GameDBServer.csproj.CopyComplete
+G:\KT_Project\Server\GameDBServer\GameDBServer\obj\x86\Debug\GameDBServer.exe
+G:\KT_Project\Server\GameDBServer\GameDBServer\obj\x86\Debug\GameDBServer.pdb
+D:\Dropbox\Dropbox\Client NEW\GameDBServer\GameDBServer\bin\Debug\GameDBServer.exe
+D:\Dropbox\Dropbox\Client NEW\GameDBServer\GameDBServer\bin\Debug\GameDBServer.pdb
+D:\Dropbox\Dropbox\Client NEW\GameDBServer\GameDBServer\bin\Debug\MySQLDriverCS.dll
+D:\Dropbox\Dropbox\Client NEW\GameDBServer\GameDBServer\obj\x86\Debug\GameDBServer.exe
+D:\Dropbox\Dropbox\Client NEW\GameDBServer\GameDBServer\obj\x86\Debug\GameDBServer.pdb
+D:\Dropbox\Dropbox\Client NEW\GameDBServer\GameDBServer\obj\x86\Debug\GameDBServer.csprojAssemblyReference.cache
+D:\Dropbox\Dropbox\Client NEW\GameDBServer\GameDBServer\obj\x86\Debug\GameDBServer.csproj.CoreCompileInputs.cache
+D:\Dropbox\Dropbox\Client NEW\GameDBServer\GameDBServer\obj\x86\Debug\GameDBServer.csproj.CopyComplete
+C:\Users\hopel\Dropbox\Client NEW\GameDBServer\GameDBServer\bin\Debug\GameDBServer.exe
+C:\Users\hopel\Dropbox\Client NEW\GameDBServer\GameDBServer\bin\Debug\GameDBServer.pdb
+C:\Users\hopel\Dropbox\Client NEW\GameDBServer\GameDBServer\bin\Debug\MySQLDriverCS.dll
+C:\Users\hopel\Dropbox\Client NEW\GameDBServer\GameDBServer\obj\x86\Debug\GameDBServer.csproj.CoreCompileInputs.cache
+C:\Users\hopel\Dropbox\Client NEW\GameDBServer\GameDBServer\obj\x86\Debug\GameDBServer.csproj.CopyComplete
+C:\Users\hopel\Dropbox\Client NEW\GameDBServer\GameDBServer\obj\x86\Debug\GameDBServer.exe
+C:\Users\hopel\Dropbox\Client NEW\GameDBServer\GameDBServer\obj\x86\Debug\GameDBServer.pdb
+C:\Users\hopel\Dropbox\Client NEW\GameDBServer\GameDBServer\obj\x86\Debug\GameDBServer.csprojAssemblyReference.cache
+D:\Dropbox\Client NEW\GameDBServer\GameDBServer\bin\Debug\GameDBServer.exe
+D:\Dropbox\Client NEW\GameDBServer\GameDBServer\bin\Debug\GameDBServer.pdb
+D:\Dropbox\Client NEW\GameDBServer\GameDBServer\bin\Debug\MySQLDriverCS.dll
+D:\Dropbox\Client NEW\GameDBServer\GameDBServer\obj\x86\Debug\GameDBServer.csproj.CoreCompileInputs.cache
+D:\Dropbox\Client NEW\GameDBServer\GameDBServer\obj\x86\Debug\GameDBServer.exe
+D:\Dropbox\Client NEW\GameDBServer\GameDBServer\obj\x86\Debug\GameDBServer.pdb
+F:\Dropbox\Dropbox\Client NEW\GameDBServer\GameDBServer\bin\Debug\GameDBServer.exe
+F:\Dropbox\Dropbox\Client NEW\GameDBServer\GameDBServer\bin\Debug\GameDBServer.pdb
+F:\Dropbox\Dropbox\Client NEW\GameDBServer\GameDBServer\bin\Debug\MySQLDriverCS.dll
+F:\Dropbox\Dropbox\Client NEW\GameDBServer\GameDBServer\obj\x86\Debug\GameDBServer.csproj.CoreCompileInputs.cache
+F:\Dropbox\Dropbox\Client NEW\GameDBServer\GameDBServer\obj\x86\Debug\GameDBServer.csproj.CopyComplete
+F:\Dropbox\Dropbox\Client NEW\GameDBServer\GameDBServer\obj\x86\Debug\GameDBServer.exe
+F:\Dropbox\Dropbox\Client NEW\GameDBServer\GameDBServer\obj\x86\Debug\GameDBServer.pdb
+F:\Dropbox\Dropbox\Client NEW\GameDBServer_SoiEdit\GameDBServer\bin\Debug\GameDBServer.exe
+F:\Dropbox\Dropbox\Client NEW\GameDBServer_SoiEdit\GameDBServer\bin\Debug\GameDBServer.pdb
+F:\Dropbox\Dropbox\Client NEW\GameDBServer_SoiEdit\GameDBServer\bin\Debug\MySQLDriverCS.dll
+F:\Dropbox\Dropbox\Client NEW\GameDBServer_SoiEdit\GameDBServer\obj\x86\Debug\GameDBServer.csproj.CoreCompileInputs.cache
+F:\Dropbox\Dropbox\Client NEW\GameDBServer_SoiEdit\GameDBServer\obj\x86\Debug\GameDBServer.csproj.CopyComplete
+F:\Dropbox\Dropbox\Client NEW\GameDBServer_SoiEdit\GameDBServer\obj\x86\Debug\GameDBServer.exe
+F:\Dropbox\Dropbox\Client NEW\GameDBServer_SoiEdit\GameDBServer\obj\x86\Debug\GameDBServer.pdb
+D:\Dropbox\Client NEW\GameDBServer_SoiEdit\GameDBServer\bin\Debug\GameDBServer.exe
+D:\Dropbox\Client NEW\GameDBServer_SoiEdit\GameDBServer\bin\Debug\GameDBServer.pdb
+D:\Dropbox\Client NEW\GameDBServer_SoiEdit\GameDBServer\bin\Debug\MySQLDriverCS.dll
+D:\Dropbox\Client NEW\GameDBServer_SoiEdit\GameDBServer\obj\x86\Debug\GameDBServer.csproj.CoreCompileInputs.cache
+D:\Dropbox\Client NEW\GameDBServer_SoiEdit\GameDBServer\obj\x86\Debug\GameDBServer.exe
+D:\Dropbox\Client NEW\GameDBServer_SoiEdit\GameDBServer\obj\x86\Debug\GameDBServer.pdb
+F:\Dropbox\Dropbox\Client NEW\GameDBServer_SoiEdit\GameDBServer\obj\x86\Debug\GameDBServer.csproj.AssemblyReference.cache
+D:\Dropbox\Client NEW\GameDBServer_SoiEdit\GameDBServer\obj\x86\Debug\GameDBServer.csproj.SuggestedBindingRedirects.cache
+D:\Dropbox\Client NEW\GameDBServer_SoiEdit\GameDBServer\bin\Debug\GameDBServer.exe.config
+D:\Dropbox\Client NEW\GameDBServer_SoiEdit\GameDBServer\obj\x86\Debug\GameDBServer.csproj.AssemblyReference.cache
+D:\Dropbox\Client NEW\GameDBServer\GameDBServer\bin\Debug\GameDBServer.exe.config
+D:\Dropbox\Client NEW\GameDBServer\GameDBServer\obj\x86\Debug\GameDBServer.csproj.SuggestedBindingRedirects.cache
+D:\Dropbox\Client NEW\GameDBServer\GameDBServer\obj\x86\Debug\GameDBServer.csproj.AssemblyReference.cache
+F:\Dropbox\Dropbox\Client NEW\GameDBServer\GameDBServer\bin\Debug\GameDBServer.exe.config
+F:\Dropbox\Dropbox\Client NEW\GameDBServer\GameDBServer\obj\x86\Debug\GameDBServer.csproj.SuggestedBindingRedirects.cache
+F:\Dropbox\Dropbox\Client NEW\GameDBServer\GameDBServer\obj\x86\Debug\GameDBServer.csproj.AssemblyReference.cache
+H:\KT_Project\GameDBServer\GameDBServer\bin\Debug\GameDBServer.exe.config
+H:\KT_Project\GameDBServer\GameDBServer\bin\Debug\GameDBServer.exe
+H:\KT_Project\GameDBServer\GameDBServer\bin\Debug\GameDBServer.pdb
+H:\KT_Project\GameDBServer\GameDBServer\bin\Debug\MySQLDriverCS.dll
+H:\KT_Project\GameDBServer\GameDBServer\obj\x86\Debug\GameDBServer.csproj.AssemblyReference.cache
+H:\KT_Project\GameDBServer\GameDBServer\obj\x86\Debug\GameDBServer.csproj.CoreCompileInputs.cache
+H:\KT_Project\GameDBServer\GameDBServer\obj\x86\Debug\GameDBServer.csproj.CopyComplete
+H:\KT_Project\GameDBServer\GameDBServer\obj\x86\Debug\GameDBServer.exe
+H:\KT_Project\GameDBServer\GameDBServer\obj\x86\Debug\GameDBServer.pdb
+C:\Users\Administrator\Downloads\GsSource\Gs\GameDBServer\GameDBServer\bin\Debug\GameDBServer.exe.config
+C:\Users\Administrator\Downloads\GsSource\Gs\GameDBServer\GameDBServer\bin\Debug\GameDBServer.exe
+C:\Users\Administrator\Downloads\GsSource\Gs\GameDBServer\GameDBServer\bin\Debug\GameDBServer.pdb
+C:\Users\Administrator\Downloads\GsSource\Gs\GameDBServer\GameDBServer\bin\Debug\MySQLDriverCS.dll
+C:\Users\Administrator\Downloads\GsSource\Gs\GameDBServer\GameDBServer\obj\x86\Debug\GameDBServer.csproj.AssemblyReference.cache
+C:\Users\Administrator\Downloads\GsSource\Gs\GameDBServer\GameDBServer\obj\x86\Debug\GameDBServer.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Downloads\GsSource\Gs\GameDBServer\GameDBServer\obj\x86\Debug\GameDBServer.csproj.CopyComplete
+C:\Users\Administrator\Downloads\GsSource\Gs\GameDBServer\GameDBServer\obj\x86\Debug\GameDBServer.exe
+C:\Users\Administrator\Downloads\GsSource\Gs\GameDBServer\GameDBServer\obj\x86\Debug\GameDBServer.pdb
+C:\Users\Administrator\Downloads\GsSource\Gs_loiMap\GameDBServer\GameDBServer\bin\Debug\GameDBServer.exe.config
+C:\Users\Administrator\Downloads\GsSource\Gs_loiMap\GameDBServer\GameDBServer\bin\Debug\GameDBServer.exe
+C:\Users\Administrator\Downloads\GsSource\Gs_loiMap\GameDBServer\GameDBServer\bin\Debug\GameDBServer.pdb
+C:\Users\Administrator\Downloads\GsSource\Gs_loiMap\GameDBServer\GameDBServer\bin\Debug\MySQLDriverCS.dll
+C:\Users\Administrator\Downloads\GsSource\Gs_loiMap\GameDBServer\GameDBServer\obj\x86\Debug\GameDBServer.csproj.AssemblyReference.cache
+C:\Users\Administrator\Downloads\GsSource\Gs_loiMap\GameDBServer\GameDBServer\obj\x86\Debug\GameDBServer.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Downloads\GsSource\Gs_loiMap\GameDBServer\GameDBServer\obj\x86\Debug\GameDBServer.csproj.CopyComplete
+C:\Users\Administrator\Downloads\GsSource\Gs_loiMap\GameDBServer\GameDBServer\obj\x86\Debug\GameDBServer.exe
+C:\Users\Administrator\Downloads\GsSource\Gs_loiMap\GameDBServer\GameDBServer\obj\x86\Debug\GameDBServer.pdb
+C:\KiemThe2009Mobi\GameDBServer\GameDBServer\bin\Debug\GameDBServer.exe.config
+C:\KiemThe2009Mobi\GameDBServer\GameDBServer\bin\Debug\GameDBServer.exe
+C:\KiemThe2009Mobi\GameDBServer\GameDBServer\bin\Debug\GameDBServer.pdb
+C:\KiemThe2009Mobi\GameDBServer\GameDBServer\bin\Debug\MySQLDriverCS.dll
+C:\KiemThe2009Mobi\GameDBServer\GameDBServer\obj\x86\Debug\GameDBServer.csproj.AssemblyReference.cache
+C:\KiemThe2009Mobi\GameDBServer\GameDBServer\obj\x86\Debug\GameDBServer.csproj.CoreCompileInputs.cache
+C:\KiemThe2009Mobi\GameDBServer\GameDBServer\obj\x86\Debug\GameDBServer.csproj.CopyComplete
+C:\KiemThe2009Mobi\GameDBServer\GameDBServer\obj\x86\Debug\GameDBServer.exe
+C:\KiemThe2009Mobi\GameDBServer\GameDBServer\obj\x86\Debug\GameDBServer.pdb
+C:\KiemCoMobi_XXX\GameDBServer\GameDBServer\bin\Debug\GameDBServer.exe.config
+C:\KiemCoMobi_XXX\GameDBServer\GameDBServer\bin\Debug\GameDBServer.exe
+C:\KiemCoMobi_XXX\GameDBServer\GameDBServer\bin\Debug\GameDBServer.pdb
+C:\KiemCoMobi_XXX\GameDBServer\GameDBServer\bin\Debug\MySQLDriverCS.dll
+C:\KiemCoMobi_XXX\GameDBServer\GameDBServer\obj\x86\Debug\GameDBServer.csproj.AssemblyReference.cache
+C:\KiemCoMobi_XXX\GameDBServer\GameDBServer\obj\x86\Debug\GameDBServer.csproj.CoreCompileInputs.cache
+C:\KiemCoMobi_XXX\GameDBServer\GameDBServer\obj\x86\Debug\GameDBServer.csproj.CopyComplete
+C:\KiemCoMobi_XXX\GameDBServer\GameDBServer\obj\x86\Debug\GameDBServer.exe
+C:\KiemCoMobi_XXX\GameDBServer\GameDBServer\obj\x86\Debug\GameDBServer.pdb
+C:\KiemCo\KiemCo_Sv12SongKiem\GameDBServer\GameDBServer\bin\Debug\GameDBServer.exe.config
+C:\KiemCo\KiemCo_Sv12SongKiem\GameDBServer\GameDBServer\bin\Debug\GameDBServer.exe
+C:\KiemCo\KiemCo_Sv12SongKiem\GameDBServer\GameDBServer\bin\Debug\GameDBServer.pdb
+C:\KiemCo\KiemCo_Sv12SongKiem\GameDBServer\GameDBServer\bin\Debug\MySQLDriverCS.dll
+C:\KiemCo\KiemCo_Sv12SongKiem\GameDBServer\GameDBServer\obj\x86\Debug\GameDBServer.csproj.AssemblyReference.cache
+C:\KiemCo\KiemCo_Sv12SongKiem\GameDBServer\GameDBServer\obj\x86\Debug\GameDBServer.csproj.CoreCompileInputs.cache
+C:\KiemCo\KiemCo_Sv12SongKiem\GameDBServer\GameDBServer\obj\x86\Debug\GameDBServer.csproj.CopyComplete
+C:\KiemCo\KiemCo_Sv12SongKiem\GameDBServer\GameDBServer\obj\x86\Debug\GameDBServer.exe
+C:\KiemCo\KiemCo_Sv12SongKiem\GameDBServer\GameDBServer\obj\x86\Debug\GameDBServer.pdb
+C:\KIEMTONGDEV\S1234\GameDBServer\GameDBServer\obj\x86\Debug\GameDBServer.csproj.AssemblyReference.cache
+C:\KIEMTONGDEV\S1234\GameDBServer\GameDBServer\obj\x86\Debug\GameDBServer.csproj.CoreCompileInputs.cache
+C:\KIEMTONGDEV\S1234\GameDBServer\GameDBServer\obj\x86\Debug\GameDBServer.exe
+C:\KIEMTONGDEV\S1234\GameDBServer\GameDBServer\obj\x86\Debug\GameDBServer.pdb
+C:\KIEMTONGDEV\S1234\GameDBServer\GameDBServer\bin\Debug\GameDBServer.exe.config
+C:\KIEMTONGDEV\S1234\GameDBServer\GameDBServer\bin\Debug\GameDBServer.exe
+C:\KIEMTONGDEV\S1234\GameDBServer\GameDBServer\bin\Debug\GameDBServer.pdb
+C:\KIEMTONGDEV\S1234\GameDBServer\GameDBServer\bin\Debug\MySQLDriverCS.dll
+C:\KIEMTONGDEV\S1234\GameDBServer\GameDBServer\obj\x86\Debug\GameDBSe.221E8150.Up2Date
+C:\KiemTong\KiemTong_S1\GameDBServer\GameDBServer\bin\Debug\GameDBServer.exe.config
+C:\KiemTong\KiemTong_S1\GameDBServer\GameDBServer\bin\Debug\GameDBServer.exe
+C:\KiemTong\KiemTong_S1\GameDBServer\GameDBServer\bin\Debug\GameDBServer.pdb
+C:\KiemTong\KiemTong_S1\GameDBServer\GameDBServer\bin\Debug\MySQLDriverCS.dll
+C:\KiemTong\KiemTong_S1\GameDBServer\GameDBServer\obj\x86\Debug\GameDBServer.csproj.AssemblyReference.cache
+C:\KiemTong\KiemTong_S1\GameDBServer\GameDBServer\obj\x86\Debug\GameDBServer.csproj.CoreCompileInputs.cache
+C:\KiemTong\KiemTong_S1\GameDBServer\GameDBServer\obj\x86\Debug\GameDBServer.csproj.CopyComplete
+C:\KiemTong\KiemTong_S1\GameDBServer\GameDBServer\obj\x86\Debug\GameDBServer.exe
+C:\KiemTong\KiemTong_S1\GameDBServer\GameDBServer\obj\x86\Debug\GameDBServer.pdb
+C:\Users\Administrator\Desktop\KIEMCO_DEV\Kiem Co Reopen\GameDBServer\GameDBServer\bin\Debug\GameDBServer.exe.config
+C:\Users\Administrator\Desktop\KIEMCO_DEV\Kiem Co Reopen\GameDBServer\GameDBServer\bin\Debug\GameDBServer.exe
+C:\Users\Administrator\Desktop\KIEMCO_DEV\Kiem Co Reopen\GameDBServer\GameDBServer\bin\Debug\MySQLDriverCS.dll
+C:\Users\Administrator\Desktop\KIEMCO_DEV\Kiem Co Reopen\GameDBServer\GameDBServer\obj\x86\Debug\GameDBServer.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\KIEMCO_DEV\Kiem Co Reopen\GameDBServer\GameDBServer\obj\x86\Debug\GameDBServer.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\KIEMCO_DEV\Kiem Co Reopen\GameDBServer\GameDBServer\obj\x86\Debug\GameDBServer.csproj.CopyComplete
+C:\Users\Administrator\Desktop\KIEMCO_DEV\Kiem Co Reopen\GameDBServer\GameDBServer\obj\x86\Debug\GameDBServer.exe
+C:\Users\Administrator\Desktop\KIEMCO_DEV\Kiem Co Reopen\GameDBServer\GameDBServer\obj\x86\Debug\GameDBServer.pdb
+C:\Users\Administrator\Desktop\KIEMCO_DEV\Kiem Co Reopen\GameDBServer\GameDBServer\bin\Debug\GameDBServer.pdb
+C:\Users\Administrator\Desktop\KIEMCO_DEV\Kiem Co Reopen\Test PET\GameDBServer\GameDBServer\bin\Debug\GameDBServer.exe.config
+C:\Users\Administrator\Desktop\KIEMCO_DEV\Kiem Co Reopen\Test PET\GameDBServer\GameDBServer\bin\Debug\GameDBServer.exe
+C:\Users\Administrator\Desktop\KIEMCO_DEV\Kiem Co Reopen\Test PET\GameDBServer\GameDBServer\bin\Debug\GameDBServer.pdb
+C:\Users\Administrator\Desktop\KIEMCO_DEV\Kiem Co Reopen\Test PET\GameDBServer\GameDBServer\bin\Debug\MySQLDriverCS.dll
+C:\Users\Administrator\Desktop\KIEMCO_DEV\Kiem Co Reopen\Test PET\GameDBServer\GameDBServer\obj\x86\Debug\GameDBServer.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\KIEMCO_DEV\Kiem Co Reopen\Test PET\GameDBServer\GameDBServer\obj\x86\Debug\GameDBServer.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\KIEMCO_DEV\Kiem Co Reopen\Test PET\GameDBServer\GameDBServer\obj\x86\Debug\GameDBServer.csproj.CopyComplete
+C:\Users\Administrator\Desktop\KIEMCO_DEV\Kiem Co Reopen\Test PET\GameDBServer\GameDBServer\obj\x86\Debug\GameDBServer.exe
+C:\Users\Administrator\Desktop\KIEMCO_DEV\Kiem Co Reopen\Test PET\GameDBServer\GameDBServer\obj\x86\Debug\GameDBServer.pdb
+D:\GameSV Pet New\GameDBServer\GameDBServer\bin\Debug\GameDBServer.exe.config
+D:\GameSV Pet New\GameDBServer\GameDBServer\bin\Debug\GameDBServer.exe
+D:\GameSV Pet New\GameDBServer\GameDBServer\bin\Debug\GameDBServer.pdb
+D:\GameSV Pet New\GameDBServer\GameDBServer\bin\Debug\MySQLDriverCS.dll
+D:\GameSV Pet New\GameDBServer\GameDBServer\obj\x86\Debug\GameDBServer.csproj.AssemblyReference.cache
+D:\GameSV Pet New\GameDBServer\GameDBServer\obj\x86\Debug\GameDBServer.csproj.CoreCompileInputs.cache
+D:\GameSV Pet New\GameDBServer\GameDBServer\obj\x86\Debug\GameDBServer.csproj.CopyComplete
+D:\GameSV Pet New\GameDBServer\GameDBServer\obj\x86\Debug\GameDBServer.exe
+D:\GameSV Pet New\GameDBServer\GameDBServer\obj\x86\Debug\GameDBServer.pdb
+D:\Test Bầu Cua\GameDBServer\GameDBServer\bin\Debug\GameDBServer.exe.config
+D:\Test Bầu Cua\GameDBServer\GameDBServer\bin\Debug\GameDBServer.exe
+D:\Test Bầu Cua\GameDBServer\GameDBServer\bin\Debug\GameDBServer.pdb
+D:\Test Bầu Cua\GameDBServer\GameDBServer\bin\Debug\MySQLDriverCS.dll
+D:\Test Bầu Cua\GameDBServer\GameDBServer\obj\x86\Debug\GameDBServer.csproj.AssemblyReference.cache
+D:\Test Bầu Cua\GameDBServer\GameDBServer\obj\x86\Debug\GameDBServer.csproj.CoreCompileInputs.cache
+D:\Test Bầu Cua\GameDBServer\GameDBServer\obj\x86\Debug\GameDBServer.csproj.CopyComplete
+D:\Test Bầu Cua\GameDBServer\GameDBServer\obj\x86\Debug\GameDBServer.exe
+D:\Test Bầu Cua\GameDBServer\GameDBServer\obj\x86\Debug\GameDBServer.pdb
+D:\Test Đua Top\GameDBServer\GameDBServer\bin\Debug\GameDBServer.exe.config
+D:\Test Đua Top\GameDBServer\GameDBServer\bin\Debug\GameDBServer.exe
+D:\Test Đua Top\GameDBServer\GameDBServer\bin\Debug\GameDBServer.pdb
+D:\Test Đua Top\GameDBServer\GameDBServer\bin\Debug\MySQLDriverCS.dll
+D:\Test Đua Top\GameDBServer\GameDBServer\obj\x86\Debug\GameDBServer.csproj.AssemblyReference.cache
+D:\Test Đua Top\GameDBServer\GameDBServer\obj\x86\Debug\GameDBServer.csproj.CoreCompileInputs.cache
+D:\Test Đua Top\GameDBServer\GameDBServer\obj\x86\Debug\GameDBServer.csproj.CopyComplete
+D:\Test Đua Top\GameDBServer\GameDBServer\obj\x86\Debug\GameDBServer.exe
+D:\Test Đua Top\GameDBServer\GameDBServer\obj\x86\Debug\GameDBServer.pdb
+C:\Users\Administrator\Desktop\KIEMCO_DEV\Kiem Co Reopen\Test Đua Top\New folder\Test Đua Top\GameDBServer\GameDBServer\obj\x86\Debug\GameDBServer.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\KIEMCO_DEV\Kiem Co Reopen\Test Đua Top\New folder\Test Đua Top\GameDBServer\GameDBServer\obj\x86\Debug\GameDBServer.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\KIEMCO_DEV\Kiem Co Reopen\Test Đua Top\New folder\Test Đua Top\GameDBServer\GameDBServer\obj\x86\Debug\GameDBServer.exe
+C:\Users\Administrator\Desktop\KIEMCO_DEV\Kiem Co Reopen\Test Đua Top\New folder\Test Đua Top\GameDBServer\GameDBServer\obj\x86\Debug\GameDBServer.pdb
+C:\Users\Administrator\Desktop\KIEMCO_DEV\Kiem Co Reopen\Test Đua Top\New folder\Test Đua Top\GameDBServer\GameDBServer\bin\Debug\GameDBServer.exe.config
+C:\Users\Administrator\Desktop\KIEMCO_DEV\Kiem Co Reopen\Test Đua Top\New folder\Test Đua Top\GameDBServer\GameDBServer\bin\Debug\GameDBServer.exe
+C:\Users\Administrator\Desktop\KIEMCO_DEV\Kiem Co Reopen\Test Đua Top\New folder\Test Đua Top\GameDBServer\GameDBServer\bin\Debug\GameDBServer.pdb
+C:\Users\Administrator\Desktop\KIEMCO_DEV\Kiem Co Reopen\Test Đua Top\New folder\Test Đua Top\GameDBServer\GameDBServer\bin\Debug\MySQLDriverCS.dll
+C:\Users\Administrator\Desktop\KIEMCO_DEV\Kiem Co Reopen\Test Đua Top\New folder\Test Đua Top\GameDBServer\GameDBServer\obj\x86\Debug\GameDBServer.csproj.CopyComplete
+C:\KIEM KY HIEP\SERVER\GAME SERVER\KIEM_KY_HIEP_S1\GameDBServer\GameDBServer\bin\Debug\GameDBServer.exe.config
+C:\KIEM KY HIEP\SERVER\GAME SERVER\KIEM_KY_HIEP_S1\GameDBServer\GameDBServer\bin\Debug\GameDBServer.exe
+C:\KIEM KY HIEP\SERVER\GAME SERVER\KIEM_KY_HIEP_S1\GameDBServer\GameDBServer\bin\Debug\GameDBServer.pdb
+C:\KIEM KY HIEP\SERVER\GAME SERVER\KIEM_KY_HIEP_S1\GameDBServer\GameDBServer\bin\Debug\MySQLDriverCS.dll
+C:\KIEM KY HIEP\SERVER\GAME SERVER\KIEM_KY_HIEP_S1\GameDBServer\GameDBServer\obj\x86\Debug\GameDBServer.csproj.AssemblyReference.cache
+C:\KIEM KY HIEP\SERVER\GAME SERVER\KIEM_KY_HIEP_S1\GameDBServer\GameDBServer\obj\x86\Debug\GameDBServer.csproj.CoreCompileInputs.cache
+C:\KIEM KY HIEP\SERVER\GAME SERVER\KIEM_KY_HIEP_S1\GameDBServer\GameDBServer\obj\x86\Debug\GameDBSe.221E8150.Up2Date
+C:\KIEM KY HIEP\SERVER\GAME SERVER\KIEM_KY_HIEP_S1\GameDBServer\GameDBServer\obj\x86\Debug\GameDBServer.exe
+C:\KIEM KY HIEP\SERVER\GAME SERVER\KIEM_KY_HIEP_S1\GameDBServer\GameDBServer\obj\x86\Debug\GameDBServer.pdb
+E:\KT mobile\KiemTheDoXanh\SERVER\GameDBServer\GameDBServer\bin\Debug\GameDBServer.exe.config
+E:\KT mobile\KiemTheDoXanh\SERVER\GameDBServer\GameDBServer\bin\Debug\GameDBServer.exe
+E:\KT mobile\KiemTheDoXanh\SERVER\GameDBServer\GameDBServer\bin\Debug\GameDBServer.pdb
+E:\KT mobile\KiemTheDoXanh\SERVER\GameDBServer\GameDBServer\bin\Debug\MySQLDriverCS.dll
+E:\KT mobile\KiemTheDoXanh\SERVER\GameDBServer\GameDBServer\obj\x86\Debug\GameDBServer.csproj.CoreCompileInputs.cache
+E:\KT mobile\KiemTheDoXanh\SERVER\GameDBServer\GameDBServer\obj\x86\Debug\GameDBServer.csproj.CopyComplete
+E:\KT mobile\KiemTheDoXanh\SERVER\GameDBServer\GameDBServer\obj\x86\Debug\GameDBServer.exe
+E:\KT mobile\KiemTheDoXanh\SERVER\GameDBServer\GameDBServer\obj\x86\Debug\GameDBServer.pdb
+E:\KT mobile\KiemTheDoXanh\SERVER\GameDBServer\GameDBServer\obj\x86\Debug\GameDBServer.csproj.AssemblyReference.cache
