@@ -226,18 +226,21 @@ namespace GameDBServer.Logic.AutoTrain
 				{
 					LogManager.WriteLog(LogTypes.Error,$"[AUTOTRAIN_NULL] Deserialize returned NULL. DataSize={count}");
 
-					tcpOutPacket = TCPOutPacket.MakeTCPOutPacket(pool, "0",(int)TCPGameServerCmds.CMD_DB_ERR_RETURN);
+					byte[] errBytes = DataHelper.ObjectToBytes("0");
+					tcpOutPacket = TCPOutPacket.MakeTCPOutPacket(pool, errBytes, 0, errBytes.Length, (int)TCPGameServerCmds.CMD_DB_ERR_RETURN);
 					return TCPProcessCmdResults.RESULT_DATA;
 				}
 				var updated = Save(resultBytes);
 				string strcmd = updated ? "1" : "0";
-				tcpOutPacket = TCPOutPacket.MakeTCPOutPacket(pool, strcmd, nID);
+				byte[] bytes = DataHelper.ObjectToBytes(strcmd);
+				tcpOutPacket = TCPOutPacket.MakeTCPOutPacket(pool, bytes, 0, bytes.Length, nID);
 				return TCPProcessCmdResults.RESULT_DATA;
 			}
 			catch (Exception ex)
 			{
 				DataHelper.WriteFormatExceptionLog(ex, "", false);
-				tcpOutPacket = TCPOutPacket.MakeTCPOutPacket(pool, "0", (int)TCPGameServerCmds.CMD_DB_ERR_RETURN);
+				byte[] errBytes = DataHelper.ObjectToBytes("0");
+				tcpOutPacket = TCPOutPacket.MakeTCPOutPacket(pool, errBytes, 0, errBytes.Length, (int)TCPGameServerCmds.CMD_DB_ERR_RETURN);
 				return TCPProcessCmdResults.RESULT_DATA;
 			}
 		}
@@ -249,13 +252,15 @@ namespace GameDBServer.Logic.AutoTrain
 				var roleId = DataHelper.BytesToObject<int>(data, 0, count);
 				var updated = Delete(roleId);
 				string strcmd = updated ? "1" : "0";
-				tcpOutPacket = TCPOutPacket.MakeTCPOutPacket(pool, strcmd, nID);
+				byte[] bytes = DataHelper.ObjectToBytes(strcmd);
+				tcpOutPacket = TCPOutPacket.MakeTCPOutPacket(pool, bytes, 0, bytes.Length, nID);
 				return TCPProcessCmdResults.RESULT_DATA;
 			}
 			catch (Exception ex)
 			{
 				DataHelper.WriteFormatExceptionLog(ex, "", false);
-				tcpOutPacket = TCPOutPacket.MakeTCPOutPacket(pool, "0", (int)TCPGameServerCmds.CMD_DB_ERR_RETURN);
+				byte[] errBytes = DataHelper.ObjectToBytes("0");
+				tcpOutPacket = TCPOutPacket.MakeTCPOutPacket(pool, errBytes, 0, errBytes.Length, (int)TCPGameServerCmds.CMD_DB_ERR_RETURN);
 				return TCPProcessCmdResults.RESULT_DATA;
 			}
 		}
@@ -267,13 +272,15 @@ namespace GameDBServer.Logic.AutoTrain
 				var resultBytes = DataHelper.BytesToObject<RewardData>(data, 0, count);
 				var updated = Insert(resultBytes);
 				string strcmd = updated ? "1" : "0";
-				tcpOutPacket = TCPOutPacket.MakeTCPOutPacket(pool, strcmd, nID);
+				byte[] bytes = DataHelper.ObjectToBytes(strcmd);
+				tcpOutPacket = TCPOutPacket.MakeTCPOutPacket(pool, bytes, 0, bytes.Length, nID);
 				return TCPProcessCmdResults.RESULT_DATA;
 			}
 			catch (Exception ex)
 			{
 				DataHelper.WriteFormatExceptionLog(ex, "", false);
-				tcpOutPacket = TCPOutPacket.MakeTCPOutPacket(pool, "0", (int)TCPGameServerCmds.CMD_DB_ERR_RETURN);
+				byte[] errBytes = DataHelper.ObjectToBytes("0");
+				tcpOutPacket = TCPOutPacket.MakeTCPOutPacket(pool, errBytes, 0, errBytes.Length, (int)TCPGameServerCmds.CMD_DB_ERR_RETURN);
 				return TCPProcessCmdResults.RESULT_DATA;
 			}
 		}

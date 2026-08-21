@@ -10,7 +10,7 @@ namespace GameDBServer.Logic.GuildLogic
 {
     public partial class GuildManager
     {
-        public int MAXFamilyCanJoin = 5;
+        public int MAXFamilyCanJoin = 2;
 
         /// <summary>
         ///  Update cho 1 tộc join vào BANG

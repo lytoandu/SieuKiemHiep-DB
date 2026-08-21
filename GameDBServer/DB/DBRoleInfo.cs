@@ -889,8 +889,24 @@ namespace GameDBServer.DB
         {
             using (MyDbConnection3 conn = new MyDbConnection3())
             {
+                /// Nếu pool cạn kiệt, PopDBConnection trả null -> DbConn null. KHÔNG được load thiếu
+                /// rồi để nhân vật vào game (auto-save sẽ đè mất dữ liệu). Ném lỗi để HỦY toàn bộ
+                /// quá trình load; nhân vật sẽ không được cache và client nhận CMD_DB_ERR_RETURN để thử lại.
+                if (null == conn.DbConn)
+                {
+                    throw new Exception(string.Format("DBTableRow2RoleInfo_ParamsEx: không lấy được DB connection (pool cạn kiệt), RoleID={0}", roleId));
+                }
+
                 string cmdText = string.Format("select * from t_roleparams_long where rid={0};", roleId);
-                DataTable dataTable = conn.ExecuteReader(cmdText).GetSchemaTable();
+                MySQLDataReader reader = conn.ExecuteReader(cmdText);
+                if (null == reader)
+                {
+                    throw new Exception(string.Format("DBTableRow2RoleInfo_ParamsEx: query t_roleparams_long thất bại, RoleID={0}", roleId));
+                }
+                DataTable dataTable = reader.GetSchemaTable();
+                /// Đóng reader ngay để giải phóng connection trước khi chạy query kế tiếp trên cùng
+                /// connection (tránh lỗi "already open DataReader" làm hỏng câu query char).
+                reader.Close();
                 if (dataTable.Rows.Count > 0)
                 {
                     ConcurrentDictionary<string, RoleParamsData> dict = dbRoleInfo.RoleParamsDict;
@@ -918,7 +934,13 @@ namespace GameDBServer.DB
                 }
 
                 cmdText = string.Format("select * from t_roleparams_char where rid={0};", roleId);
-                dataTable = conn.ExecuteReader(cmdText).GetSchemaTable();
+                reader = conn.ExecuteReader(cmdText);
+                if (null == reader)
+                {
+                    throw new Exception(string.Format("DBTableRow2RoleInfo_ParamsEx: query t_roleparams_char thất bại, RoleID={0}", roleId));
+                }
+                dataTable = reader.GetSchemaTable();
+                reader.Close();
                 if (dataTable.Rows.Count > 0)
                 {
                     ConcurrentDictionary<string, RoleParamsData> dict = dbRoleInfo.RoleParamsDict;
@@ -1337,6 +1359,11 @@ namespace GameDBServer.DB
             string str = string.Format("SELECT Id, myid, otherid, relationship, friendType FROM t_friends WHERE myid = {0} OR otherid = {1}", roleID, roleID);
             GameDBManager.SystemServerSQLEvents.AddEvent(string.Format("+SQL: {0}", str), EventLevels.Important);
             MySQLConnection connection = DBManager.getInstance().DBConns.PopDBConnection();
+            /// Pool cạn kiệt -> null. Ném lỗi để hủy load, không để danh sách bạn bè rỗng giả.
+            if (null == connection)
+            {
+                throw new Exception(string.Format("DBTableRow2RoleInfo_Friends: không lấy được DB connection (pool cạn kiệt), RoleID={0}", roleID));
+            }
             try
             {
                 MySQLCommand command = new MySQLCommand(str, connection);

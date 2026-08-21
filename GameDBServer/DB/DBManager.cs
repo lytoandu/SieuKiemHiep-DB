@@ -2,6 +2,7 @@
 using GameDBServer.Logic.Name;
 using GameDBServer.Logic.SystemParameters;
 using MySQLDriverCS;
+using Server.Tools;
 using System;
 
 namespace GameDBServer.DB
@@ -196,6 +197,15 @@ namespace GameDBServer.DB
              //   Console.WriteLine("GetDBRoleInfo333333333 :" + roleID);
                 dbRoleInfo = new DBRoleInfo();
                 MySQLConnection conn = _DBConns.PopDBConnection();
+
+                /// Nếu pool DB cạn kiệt, PopDBConnection trả null. KHÔNG được load nhân vật với
+                /// connection null (sẽ load thiếu dữ liệu rồi auto-save đè mất đồ). Hủy load ngay,
+                /// trả null để tầng trên báo client thử lại.
+                if (null == conn)
+                {
+                    LogManager.WriteLog(LogTypes.Error, string.Format("GetDBRoleInfo: không lấy được DB connection (pool cạn kiệt), RoleID={0}, hủy load để tránh nhân vật bị load thiếu", roleID));
+                    return null;
+                }
 
                 try
                 {

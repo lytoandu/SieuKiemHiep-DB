@@ -3455,7 +3455,7 @@ namespace GameDBServer.Server
                         break;
                     }
                 #endregion
-                /*#region Auto train
+                #region Auto train
 
                 case (int)TCPGameServerCmds.CMD_KT_DB_AUTOTRAIN_REWARD_ADD:
                     {
@@ -3513,7 +3513,7 @@ namespace GameDBServer.Server
                     }
                     break;
 
-                #endregion*/
+                #endregion
 
 
                 #region Chợ đen
@@ -4162,6 +4162,16 @@ namespace GameDBServer.Server
 
                             // Lấy ra role
                             DBRoleInfo dbRoleInfo = dbMgr.GetDBRoleInfo(dbUserInfo.ListRoleIDs[i]);
+
+                            /// Nếu load nhân vật thất bại (pool DB cạn kiệt / lỗi query) -> KHÔNG trả về
+                            /// danh sách thiếu nhân vật (client sẽ tưởng bị mất nhân vật). Báo lỗi để
+                            /// client thử lại, đồng thời tránh NullReference làm hỏng cả gói xử lý.
+                            if (null == dbRoleInfo)
+                            {
+                                LogManager.WriteLog(LogTypes.Error, string.Format("ProcessGetRoleListCmd: GetDBRoleInfo trả null (pool DB cạn kiệt?), UserID={0}, RoleID={1}. Trả CMD_DB_ERR_RETURN để client thử lại.", userID, dbUserInfo.ListRoleIDs[i]));
+                                tcpOutPacket = TCPOutPacket.MakeTCPOutPacket(pool, "0", (int)TCPGameServerCmds.CMD_DB_ERR_RETURN);
+                                return TCPProcessCmdResults.RESULT_DATA;
+                            }
 
                             /// Danh sách trang bị
                             int armorID = -1, helmID = -1, weaponID = -1, weaponEnhanceLevel = 0, mantleID = -1;

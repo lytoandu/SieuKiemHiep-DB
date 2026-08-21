@@ -9,7 +9,7 @@ namespace GameDBServer.Logic.FamilyLogic
 {
     public partial class FamilyManager
     {
-        public int MaxMemberCanJoin = 30;
+        public int MaxMemberCanJoin = 20;
 
         public string ResponseRequestJoin(int RoleID, int Accpect, int FamilyID)
         {

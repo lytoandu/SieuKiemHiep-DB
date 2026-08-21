@@ -47,6 +47,18 @@ namespace GameDBServer.DB
         private int MaxCount;
 
         /// <summary>
+        /// Thời gian chờ tối đa (ms) khi lấy 1 connection từ pool, tránh treo vô thời hạn
+        /// khi pool cạn kiệt (VD: nhiều query chậm/deadlock giữ hết connection cùng lúc).
+        /// </summary>
+        private const int PopConnectionTimeoutMs = 15000;
+
+        /// <summary>
+        /// Timeout (giây) cho câu lệnh health-check "select 1" khi Pop connection, tránh chính
+        /// câu health-check bị treo nếu connection/DB đang có vấn đề.
+        /// </summary>
+        private const int HealthCheckCommandTimeoutSec = 5;
+
+        /// <summary>
         /// Tạo kết nối mới tới Database
         /// </summary>
         /// <param name="connStr"></param>
@@ -56,10 +68,13 @@ namespace GameDBServer.DB
             {
                 ConnectionString = connStr.AsString;
                 // ConnectionString += ConnectionString + ";Character Set=UTF-8";
-                MaxCount = 100;
-                SemaphoreClients = new Semaphore(0, 100);
+                /// Đọc số connection từ AppConfig.xml (maxConns), nhưng đặt SÀN tối thiểu 100 để tránh
+                /// vô tình thu nhỏ pool nếu config để giá trị quá thấp (VD maxConns=10 cũ). Nhờ vậy sau
+                /// này chỉ cần sửa maxConns trong AppConfig.xml là đổi được pool, không cần build lại.
+                MaxCount = Math.Max(maxCount, 100);
+                SemaphoreClients = new Semaphore(0, MaxCount);
 
-                for (int i = 0; i < 100; i++)
+                for (int i = 0; i < MaxCount; i++)
                 {
                     MySQLConnection dbConn = CreateAConnection();
                     if (null == dbConn)
@@ -151,7 +166,17 @@ namespace GameDBServer.DB
             {
                 string cmdText = @"select 1";
                 lost = true;
-                SemaphoreClients.WaitOne();
+
+                /// Chờ có giới hạn thời gian thay vì vô thời hạn: nếu pool cạn kiệt (VD nhiều query
+                /// chậm/deadlock giữ hết connection cùng lúc), tránh việc thread gọi bị treo mãi mãi
+                /// kéo theo nghẽn dây chuyền toàn server (bao gồm cả tầng nhận/gửi socket).
+                if (!SemaphoreClients.WaitOne(PopConnectionTimeoutMs))
+                {
+                    LogManager.WriteLog(LogTypes.Exception,
+                        string.Format("PopDBConnection timeout sau {0}ms: connection pool đang cạn kiệt (CurrentCount={1}, MaxCount={2})",
+                            PopConnectionTimeoutMs, CurrentCount, MaxCount));
+                    return null;
+                }
 
                 /// Toác
                 if (!this.DBConns.TryDequeue(out conn))
@@ -163,6 +188,7 @@ namespace GameDBServer.DB
                 {
                     using (MySQLCommand cmd = new MySQLCommand(cmdText, conn))
                     {
+                        cmd.CommandTimeout = HealthCheckCommandTimeoutSec;
                         try
                         {
                             cmd.ExecuteNonQuery();
